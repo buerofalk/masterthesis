@@ -1,0 +1,1640 @@
+\chapter{Einleitung}\label{einleitung}
+
+\section{Abgesang auf die
+Verlagsindustrie}\label{abgesang-auf-die-verlagsindustrie}
+
+Die Digitalisierung stellt große Herausforderungen an die
+Verlagsindustrie. Portraits über Manager, Buchhändler und Leser, die das
+Ende des gedruckten Wortes beschwören, reihen sich an Insolvenzmeldungen
+renommierter Tageszeitungen; Konsolidierungsbewegungen schweißen
+einstige Medienimperien zusammen, ohne, dass bei Kartellämter und
+Regulierungsbehörden Bedenken aufzukommen scheinen; Verlage
+diversifizieren zunehmend in artfremde Bereich um sich weitere
+Ertragsstützen zu schaffen und sichern sich damit gegen ein weiter
+abflauendes Anzeigen- und Verkaufsgeschäft ihrer gedruckten Ware ab.
+Gerade die Zeitungen hätten den Wandel ins Digitale -- so wie ihre
+Geschwister aus der Kulturgüterindustrie, die Musikkonzerne --
+verschlafen, verschleppt oder nicht wahrhaben wollen und sehen sich nun
+umringt von Bloggern, Aggregatoren und Sozialen Medien, die anscheinend
+Journalismus besser, schneller und vor allem kostenfrei anbieten können.
+Auch beim Geschäftsmodell der Buchverlage fallen immer mehr Anteile an
+digitale Konkurrenten ab, was längst über den Vertrieb von Büchern im
+Internet hinaus geht.
+
+\subsection{Analogie zur Musikindustrie,
+Vertriebsseite}\label{analogie-zur-musikindustrie-vertriebsseite}
+
+\texttt{Vielleicht sollte man den Teil auch einfach nur streichen. Klingt zwar gut, liest sich auch fein, aber tut eigentlich nichts zur Sache}
+Die Technik für elektronische Bücher und Publikationen ist bereits seit
+geraumer Weile praktisch einsetzbar. Nur haben die Verlagshäuser
+anscheinend nicht aus den Lehren der Musikindustrie lernen wollen und
+stehen doch nun tatsächlich einer ähnlichen schicksalhaften Zukunft
+gegenüber. Die Analogien sind retrospektiv klar zu umreißen und sind wie
+folgt. Zunächst wurde die Technik unterschätzt, der Umschwung des
+Nutzungsverhalten für eine Nischenerscheinung gehalten und als die
+Digitalisierung nicht mehr zu leugnen war, versuchte man das
+Geschäftsmodell eins zu eins zu ins Digitale übertragen. Um weiterhin
+die Kontrolle über die Inhalte zu wahren, verzichtete man auf
+industrielle Kooperation, die einheitliche Standards sowie einen
+gemeinsamen Marktplatz hervorgebracht hätte, sondern setzte auf eigene
+Formate mit unüberbrückbaren Kopierschutzmechanismen und umständlichen
+Onlineshops und uneinheitlichen Bezahlungskonzepten. Die Konsequenz war,
+das die Piraterie einen Großteil des Geschäfts wegbrechen ließ. Grund
+dafür war nicht die mangelnde Zahlungsbereitschaft, sondern, dass es
+schlicht und ergreifend einfacher war, die Inhalte aus Tausch-Netzwerken
+zu ziehen, als es mühselig bei unterschiedlichen Musikkonzernen
+einzukaufen. Was nun geschah, ist der Versuch das Geschäftsmodell, das
+im wesentlichen in der Nutzung von Verwertungsrechten besteht,
+juristisch zu schützen. Das geht dann so lange, bis ein Unternehmen auf
+den Plan tritt, das neben Hardware (Apples iPod! Amazons Kindle!) auch
+das digitale Geschäft, dessen Logik und die Ökonomie des Internets
+versteht. Was in der Musikindustrie \emph{Apple} mit seinem
+\emph{iTunes-Store} war und jetzt Streaminganbieter wie \emph{Spotify}
+und \emph{Simfy} sind, ist \emph{Amazon} für digitale Publikationen (FAZ
+02.07.2014).
+
+\subsection{Bedrohungen}\label{bedrohungen}
+
+Die Herausforderungen denen sich Verlage stellen müssen, sind jedoch
+nicht lediglich vertriebsseitig, sondern betreffen auch die Produktion
+von Inhalten.
+
+Der Zeitungsverlage haben damit zu kämpfen, was Yochai Benkler die
+\emph{Costs of becoming a Speaker} nennt. Die Produktionskosten und die
+Kosten für den Vertrieb von Inhalten über das Internet ist verschwindend
+gering und so kann jeder theoretisch zum Berichterstatter werden.
+Soziale Medien und Internetdienste befeuern diese Entwicklung weiterhin,
+da es durch sie möglich ist auch ohne technisches Verständnis Inhalte
+einfach zu produzieren, schnell zu bewerben und großflächig zu
+verteilen.
+
+Auch Buchverlage sehen sich seitens der Produktion bedroht.
+Self-Publishing Plattformen stellen für Autoren eine Alternative zum
+klassischen Verlag dar. Attraktive Gewinnbeteiligungen, volle Kontrolle
+über das Produkt und keine Selektion der Inhalte sind verlockende
+Konditionen, nicht nur für etablierte Autoren, sondern vor allem für
+Neueinsteiger. Einige Verlage betreiben solche eigenen Self-Publishing
+Dienste auch neben dem klassischen Kerngeschäft, können aber mit der
+Größe des Publikums, der Technik und den Konditionen nicht mit der
+Plattform von Amazon nicht mithalten und so wird der größte Buchhändler
+der Welt auch zu einem Verlag. Diese Entwicklung wird auch von den teils
+fragwürdigen Geschäftspraktiken seitens Amazons verstärkt, die zum Ziel
+haben, die bestehenden Beziehungen zwischen Autoren und Verlagen zu
+unterbrechen (FAZ, 02.07.2014).
+
+\subsection{Das Phänomen O'Reilly
+Verlag}\label{das-phuxe4nomen-oreilly-verlag}
+
+Zwischen diesen Akteuren und Entwicklungen steht der O'Reilly Verlag,
+der 1992 von Tim O'Reilly gegründet wurde und in seiner
+Geschäftsausrichtung und -strategie sich von den anderen Verlagen
+unterscheidet, die nach wie vor in der alten und gewohnten
+Produktionslogik -- Autor, Lektor, Buch, Vertrieb, Leser -- denken und
+handeln. Diese Andersartigkeit ist dem Fakt geschuldet, dass der
+O'Reilly Verlag tief in der Informations Technologie Branche verankert
+ist und das eben nicht nur thematisch, sonder auch -- wenn man so will
+-- methodisch.
+
+Die Grundprinzipien der gemeinsamen aber verteilten Softwareproduktion,
+wie es in \emph{Open-Source} Projekten der Fall ist, trägt der Verlag
+ebenso in den Genen, wie Überzeugung seines Gründers, dass
+
+\section{Methodik und Aufbau dieser
+Arbeit}\label{methodik-und-aufbau-dieser-arbeit}
+
+\begin{itemize}
+\item
+  Arbeit geht Theoriebildend vor, nicht testend, da es keine Theorie
+  gibt (siehe dazu Kapitel 2), die das Phänomen ausreichend beschreiben
+  kann
+\item
+  Die Perspektive ist die der sozialen Praktiken (siehe dazu Kapitel 3),
+  die es ermöglicht die Kerneigenschaften/Handlungen zu untersuchen und
+  daraus Schlüsse zu ziehen
+\item
+  Ziel soll sein, ein genaues Bild zu zeichnen, von den Vorgängen, wie
+  man es managed usw und nicht eine generalisierte Theorie
+\item
+\end{itemize}
+
+\chapter{Heranführung oder aktueller
+Forschungsstand}\label{heranfuxfchrung-oder-aktueller-forschungsstand}
+
+Um den Leser an das Thema heranzuführen, zeigt der Autor hier zwei
+Perspektiven auf, die in Mischform / Kombination / Synthese eine Form
+der Kooperation von Unternehmen und Kunden darstellen, die dem, welches
+O'Reilly und den Entwicklern, respektive Autoren beschreibt. Die Art wie
+der O'Reilly Verlag mit der Open Source Gemeinschaft umgeht, welche
+Beziehung sie miteinander haben, wer wie von wem profitiert ist
+einzigartig und daher mit vorhandener Theorie nicht zu erklären. In
+diesem Kapitel werden nun verschiedene Ansätze erläutert, die
+Schnittmengen mit dem Phänomen O'Reilly besitzen. Dazu gehören zunächst
+die Brand Communities, die vor allem aus der Sicht des Marketing und des
+\emph{Custom Relationship Managements} erforscht wurden. Weiterhin
+werden Theorien und Mechanismen erläutert, die die Vorgänge in der Open
+Source Community beschreiben um ein notwendiges Verständnis zu schaffen,
+welcher Geist in dieser Community herrscht, da er sich doch maßgeblich
+von Brand Communities unterscheidet.
+
+Zunächst wird auf die Geschichte, Bildung, Zweck, Kategorisierung und
+unternehmerische Anbindung von online Communities eingegangen werden.
+Als zweites werden dann die Theorien zu Innovationsprozessen in
+Unternehmen beschrieben. Diese beziehen sich auf verteilte Prozesse.
+Prozesse also die nicht nur die Innenperspektive des Unternehmens
+darstellen, sondern auch die Umwelt -- Zulieferer, Konkurrenten,
+Forschungsinstitutionen und auch Kunden -- miteinbeziehen. Ralf
+Reichwald und Frank Piller \citeyearpar{reichwald_interaktive_2009}
+sprechen dabei von \emph{interaktiver Wertschöpfung}.
+
+\section{Medienunternehmen im Wandel bla bla, Content Centered Design
+Fokus, Content als Gut,
+usw}\label{medienunternehmen-im-wandel-bla-bla-content-centered-design-fokus-content-als-gut-usw}
+
+\section{Communities \emph{revisited}: Expedition in die Welt der
+Community}\label{communities-revisited-expedition-in-die-welt-der-community}
+
+In der Wirtschaft kennt das Paradigma der \emph{Community} zahlreiche
+Anwendungsgebiete und Begrifflichkeit -- auch aufgrund der
+Publikationsfreude und dem (!! ich möchte hier sagen, dass das Wort
+Community einen gewissen positiven Beigeschmack hat, dass einem, ja, in
+die Sphäre gehobener wissenschaftlicher Auseinandersetzung vermeintlich
+hievt, der Begriff hat, was natürlich gerade die Marketingleute wie
+Motten das Licht anzieht, eine positive Ausstrahlung, so dass es gerne
+in Kombination Verwendung findet) , die damit verbunden sind. Um
+konstruktiv und differenziert arbeiten zu können, muss zunächst eine
+sinnvolle ontologische Basis errichtet werden. In diesem Kapitel sollen
+zwei Ziele verfolgt werden. Erstens, die Konkretisierung des Begriffs
+\emph{Community} und wie er in dieser Arbeit verstanden und bearbeitet
+wird und zum Zweiten, die thematische Durchquerung der unterschiedlichen
+Perspektiven mit dem der Begriff in Verbindung gebracht wird. Auswahl
+und Reihenfolge der Betrachtung sind weniger strukturiert als
+exemplarisch. Es wird sich dabei schnittweise der thematischen Schärfe
+des \emph{Community}-Begriffs, wie er in dieser Arbeit aufgefasst und
+genutzt wird, genähert werden. Dabei werden nur Felder betrachtet, die
+einem engen Zusammenhang mit dem Kontext einer Unternehmung, deren
+Wertschöpfungsethos und der zugrunde, dahinter, nebenstehende
+Gemeinschaft stehen.
+
+In der Literatur finden sich eine ganze Reihe an Begrifflichkeit, die im
+Kern das Gleiche oder zumindest sehr Ähnliches bedeuten. Während Scherer
+et al.\citeyearpar{scherer_marken_2012} die deutschen Begriffe --
+\emph{Online-Gemeinschaft, Online-Markengemeinschaft,
+Online-Netzwerkgemeinschaft} -- favorisieren, finden sich in der
+deutschen Marketingliteratur wenig überraschend vor allem englische
+Varianten -- \emph{Brand Communities, Social Media Communities,
+Online-Offline Communities} -- aber auch Mischlinge wie
+\emph{Kunden-Community}. In älterer Literatur wird auch gerne von
+\emph{Virtual Communities}, \emph{Communities of Practice},
+\emph{Business Communities}, \emph{Customer Communities} oder
+\emph{Cyber Communities} gesprochen. Um das sprachliche Wirrwarr zu
+reduzieren, wird ausschließlich der Begriff der \emph{Community}
+verwendet, welche immer als eine online Community im Internet aufgefasst
+wird, außer es ist explizit von offline Communities die Rede. In der
+deutschen Übersetzung als \emph{Gemeinschaft} schwingt der Geist der
+Internets, der Vernetzung und der Zusammenarbeit -- so die Auffassung
+des Autors -- nur im begrenzten Maße mit und verkörpert eher eine lokale
+und dicht verknüpfte Gruppe im Sinne eines Dorfes oder eines Vereins,
+statt -- wie es wohl der Begriff \emph{Szene} besser beschreiben würde
+-- ein geografisch unabhängiges, räumlich verteiltes und nur lose
+verbundenes Netzwerk.
+
+\emph{!!v1 In diesem Kapitel soll als Erstes die begriffliche Basis
+gelegt, bevor die unterschiedlichen Ansätze und Perspektiven dargestellt
+werden, die sich mit }Communities* und deren Einbindung in Unternehmen
+auseinandersetzen. Zunächst wird sich dabei thematisch dem Thema
+genähert bevor auch methodisch ähnliche Arbeiten wie diese in den Fokus
+rücken sollen. Am Ende soll anhand dieser Ausführungen plausibel zu
+erkennen sein, mit welchen Fragen sich noch nicht beschäftigt worden ist
+und warum gerade diese so interessant sind.*
+
+\subsection{Online Communities}\label{online-communities}
+
+Online Communities sind natürlich kein neues Phänomen, denn
+Gemeinschaften gehören seit je her, in ihrem ursprünglichen Sinne als
+nicht kommerzielle Gruppierungen, zum menschlichen Leben. Mit dem
+aufkommen des Internets und der Entwicklung der Technologie verlagert
+sich diese lediglich dort hin. Charakterisiert sind Communities von
+einer individuellen Bedürfnisbefriedigung mit Hilfe von modernen
+Telekommunikationsmitteln auf der einen Seite, aber auch durch Gefühle,
+die die Individuen in den öffentlichen Diskussionen gezeigt werden. Die
+Verbindungen die dabei von den einzelnen Individuen zueinander
+eingegangen werden basieren auf gemeinsamen, geteilten Interessen.
+Umfassend können folgende Eigenschaften in unterschiedlichen
+Ausprägungen in nahezu allen Communities beobachtet werden: Räumliche
+Souveränität, thematische Verbundenheit und soziale Integration. Es
+liegen unterschiedliche Modelle vor, um Communities zu unterscheiden und
+einzuordnen \citep[S. 42 f.]{loewenfeld_brand_2006}. Auch im Hinblick
+auf die, in dieser Arbeit untersuchte, Community wird der Ansatz nach
+Scherer et al. \citeyearpar[S. 19 f.]{scherer_marken_2012} dargestellt,
+da er --- im Gegensatz zu den älteren Modellen nach !!,
+\citet{schubert_virtuelle_2000}, S. 30 ff. -- genügend abstrakt gedacht
+ist, die ökonomische Ebene explizit und differenziert mit einbezieht und
+die des Mediums ausklammert. Die Vernachlässigung des genutzten Mediums
+ist in sofern sinnvoll, da die Literatur naturgemäß mit alten
+Technologien, deren Funktionalität und vor allem Leistung nicht mit
+moderner Kommunikations- und Informationstechnologie vergleichbar ist,
+durchsetzt ist. Außerdem verschmelzen die Grenzen zwischen den
+verschiedenen Technologien und auch zwischen online und offline,
+Virtualität und Realität mehr und mehr, so dass eine strikte Trennung
+und Kategorisierung nur schwer möglich und wenig sinnvoll erscheint.
+Auch im Hinblick auf das in dieser Arbeit betrachtete Feld der
+IT-Entwickler Community ist es angebracht die Wahl des Mediums nicht
+explizit zu unterscheiden, da das Gros der Aktivität im Virtuellen und
+über eine Vielzahl an Technologien hinweg geschieht, deren
+Differenzierung wohl nur der wissenschaftlichen Objektivität dient, aber
+keinen weiteren Nutzen für die Betrachtung der Prozesse innerhalb dieser
+Technologien bietet. Die Autoren systematisieren Communities anhand drei
+Dimensionen: Sozial, Inhaltlich und Ökonomisch.
+
+\paragraph{Soziale Dimension}\label{soziale-dimension}
+
+Auf sozialer Ebene lassen sich wiederum drei verschiedene Ausprägungen
+an Communities identifizieren: 1. unverbundene; 2. Online Communities
+mit einer Verbindung zu physischen Communities und 3. auf physischen
+Communities basierende Online Communities. Der erste Typus stellt rein
+virtuelle Communities dar, welche keine direkte Verbindung zur
+physischen Welt haben. Ein Beispiel für den zweiten Typ sind Fangruppen,
+deren Mitglieder sich zu bestimmten Ereignissen real treffen. Der dritte
+Typ beschreibt eigentlich physische Communities -- also eher was der
+Begriff Gemeinschaft verkörpert: nämlich lokal beschränkte Gruppierungen
+-- welche Online Communities nutzen um, vor allem, effizient in der
+Gruppe zu kommunizieren.
+
+\paragraph{Inhaltliche Dimension}\label{inhaltliche-dimension}
+
+Inhaltlich folgen Scherer et al. der Unterscheidung von Knappe und
+Kracklauer \citeyearpar[S. 16 f.]{knappe_verkaufschance_2007}, welche
+auch hier drei unterschiedliche Ausprägungen herausgearbeitet haben. 1.
+identitätsgetriebene; 2. themengetriebene; 3. kombinierte Online
+Communities. Während identitätsgetriebene Communities auf der
+Selbstdarstellung seiner Mitglieder beruhen und oft auch ihre wahre
+Identität preisgeben, kommt es bei themengetriebenen Communities sehr
+auf die Interaktion untereinander und die Bearbeitung eines spezifischen
+Themas an. Kombinierte Communities waren in ihrer Ursprungsform oft
+identitätsgetriebene Communities, die Mechanismen zur themenbezogenen
+Kommunikation in ihr Angebot mit aufgenommen haben. Paradebeispiel dafür
+ist \emph{Facebook}, auf deren Plattform themenbezogene Gruppen
+gegründet werden und Unternehmen mit ihren Marken- beziehungsweise
+Produktbezogenen Themen agieren können \citep[S. 19
+ff.]{scherer_marken_2012}.
+
+\paragraph{Ökonomische Dimension}\label{uxf6konomische-dimension}
+
+Das dritte Unterscheidungsmerkmal bezieht darauf wie aber noch viel
+wichtiger für wen die Community einen ökonomische Nutzen -- ob direkt
+oder indirekt -- hat. Auch hier werden drei Gruppen angeführt: 1. nicht
+kommerzielle; 2. kommerziell unabhängige; 3. kommerziell abhängige
+Communities. Zur ersten Gruppe gehören beispielhaft Non-Profit
+Organisationen, Fan-Seiten und bemerkenswerterweise auch inoffizielle
+markenbezogene Communities, die keine Gewinnabsichten hegen. Unter
+kommerziell unabhängigen Communities werden jene verstanden, die durch
+sich selbst, also direkt, dem Anbieter der Community einen ökonomischen
+Nutzen einbringen. Kommerziell abhängige Communities werden dagegen
+meist von Unternehmen finanziert und tragen lediglich indirekt zur
+Wertschöpfung des Anbieters bei \citep[S. 350]{weiber_virtual_2002}. Den
+Nutzen den Communities dabei für Unternehmen darstellen, besteht in der
+Generierung von Marktforschungsdaten, also Bedürfnisinformationen, dem
+Einsatz von kundenspezifischer Werbung, der Verbesserung des
+Kundenservice und der Erhöhung der Kundenbindung sowie des Umsatzes
+\citep[S. 355]{weiber_virtual_2002}. Darunter fallen vor allem
+\emph{Brand Communities}, welche im nächsten Kapitel näher beleuchtet
+werden.
+
+Es muss festgehalten werden, dass zwischen diese Dimensionen keine
+strengen Grenzen verlaufen und sich Communities nicht absolut in diese
+Kategorien einordnen lassen. Sie zeigen vielmehr schwerpunkthafte
+Eigenschaften von Communities. Gerade deswegen eignet sich auch die
+grafische Darstellung als Raum, die Scherer et al. \citeyearpar[S.
+21]{scherer_marken_2012} gewählt haben, besonders gut, stellt sie doch
+die fließenden Übergänge und die theoretisch, dynamische Ausdehnung von
+Communities über unterschiedliche Kategorien hinweg dar.
+
+\input{images/communities-wuerfel.tex}
+
+Charakterisierendes Merkmal von Communities ist das die
+Kommunikationsstruktur nicht radial, also von einem Akteur ausgehend an
+viele, und somit nur vom Anbieter an die Mitglieder gerichtet ist,
+sondern untereinander vernetzt ist. Die Akteure in Communities
+kommunizieren multidirektional und interagieren primär untereinander
+\citep[S. 348]{weiber_virtual_2002}.
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Mitgliederverhalten
+\item
+  Mitgliederzusammensetzung
+\end{itemize}
+
+\subsection{Brand Communities}\label{brand-communities}
+
+Die Anfänge der Betrachtung von Gemeinschaften im Umfeld von Unternehmen
+und ihren Produkten , werden häufig die \emph{consumption communities}
+genannt. Das sind nicht sichtbare Gemeinschaften, die aufgrund dessen
+was und wie konsumiert wird entstehen \citep[S.
+89)]{boorstin_americans:_1974}. In seinen Studien zum Konsumverhalten
+von Amerikanern fand Boorstin heraus, dass der Gemeinschaftssinn stärker
+auf Konsumgewohnheiten fußt, also auf Interaktion mit anderen Menschen
+aufgrund geografischer Nähe. Forschungen zum Konsumenten und Konsum
+können grob in zwei Strömungen aufgeteilt werden, die entgegen gerichtet
+sind: \emph{Neo-Tribalismus} und \emph{Subcultures of Consumption}.
+Erstere beschreibt individuelle Freiheit als die Loslösung aller
+sozialen Bindungen, wohingegen die zweite Strömung die Freiheit darin
+beschrieben sieht, wenn man sich die sozialen Gruppierungen, die auf
+geteilte Interessen, Vorlieben, Angewohnheiten usw. zurückzuführen sind,
+zu denen man gehört, frei auswählen kann \citep[S. 16
+f.]{hartleb_brand_2009}. Diese soziologischen Vorfahren ebneten den Weg
+für Entwicklung des \emph{Brand Community} Begriffs, der nach
+herrschender Meinung auf Albert M. Muniz und Thomas O'Guinn zurückgeht.
+In ihrem viel beachteten Artikel \enquote{Brand Community} aus dem Jahr
+2001 wiesen sie die Existenz einiger Gemeinschaften --- unter anderem
+von Saab und Apple --, die unabhängig vom jeweiligen Unternehmen
+entstanden sind, nach und proklamierten die Beziehung zwischen Kunde und
+Marke um eine soziale Perspektive zu erweitern. Dazu führten sie die
+Beziehung Kunde-Marke-Kunde ein \citep[S. !!]{muniz_brand_2001} und
+definieren den Begriff \emph{Brand Community} als eine spezialisierte,
+geografisch nicht festgelegte Gemeinschaft, die auf einen strukturierten
+Gerüst --- \emph{structured set} --- von sozialen Beziehungen unter
+Bewunderern --- \emph{admirers} --- einer Marke.
+\input{images/community-modelle} Sie stellen dabei heraus, dass diese
+Gemeinschaft, wie auch andere, ein gemeinsames Bewusstsein, Rituale,
+Traditionen und eine gewisse moralische Verpflichtung teilen, die aber
+zentriert um ein Produkt oder eine Dienstleistung, in einem
+kommerziellen Sinn durch Massenmedien induziert werden und ihre eigene
+Ausdrucksform hat. Sie nehmen dabei auch schon vorweg, dass die
+Möglichkeiten der sich damals entwickelnden \emph{computer-mediated
+communication} , im gleichen Masse wie die Massenmedien, die
+geografische Entkoppelung und Simulation von Nähe, bewerkstelligen
+können \citep[S. 412 f.]{muniz_brand_2001}.
+\citet{mcalexander_building_2002} griffen das Modell auf, reicherten es
+mit zusätzlichen Akteuren -- \emph{Product} und \emph{Marketer} -- an
+und rücken einen Kunden -- den \emph{Focal Customer} -- in die, nun
+mögliche, Mitte dieses komplexen Beziehungsgeflechts \citep[S.
+39]{mcalexander_building_2002}. Sie verstärken damit die Rolle des
+Kunden und stellen klar, dass eine Community auch aktiv von Unternehmen
+durch das Marketing und dem Produkt vernetzt sein kann.
+
+\paragraph{Marketingmanagement}\label{marketingmanagement}
+
+Aufbauend auf diesem Artikel entstanden in Folge unzählige weitere
+Veröffentlichungen die das, zunächst eigenständig entstandene, Phänomen
+der \emph{Brand Community} für das Marketing, und in letzten Jahren auch
+gerade für das Social Media Marketing, instrumentalisierten. Die
+Definition von Muniz \& O'Guinn scheint in diesen Abhandlungen immer ---
+in unterschiedlich starken Ausprägungen --- durch. Exemplarisch wird
+hier nur auf zwei Publikationen aus dem Bereich eingegangen, da eine
+repräsentative Analyse der Literatur wohl kaum --- aufgrund der schieren
+Anzahl an Veröffentlichungen, die sich nicht grundlegend inhaltlich
+unterscheiden --- wenig sinnvoll erscheint.
+
+Die Marketingliteratur abstrahiert den Begriff so weit wie nötig. So
+sind Communities schlicht
+\enquote{sozialen Gruppen, die Menschen gründen oder denen sie beitreten, um ein Konsumerlebnis miteinander zu teilen}
+\citep[S. VIII]{kaul_community-marketing:_2008}. Der Konsum des Produkts
+oder der Dienstleistung steht also im Mittelpunkt. Die Aufgabe des
+Community Marketing ist demnach
+\enquote{Netzwerkmanagement, dass die Kompetenzen der Kunden organisiert, um die zentralen Marketingaufgaben wettbewerbsüberlegen zu realisieren}
+\citep[S.69]{kaul_community-marketing:_2008}. Um Communities sinnvoll
+für ihre Marketingzwecke zu nutzen stehen Unternehmen vor wesentlichen
+Herausforderungen. Erstens müssen sie es zulassen die unternehmerische
+Kontrolle über Inhalte bis zu einem gewissen Grad aus der Hand zu geben
+um die Potenziale aus dem Abgleich zwischen den Bedürfnissen und
+Kompetenzen von Kunden und Unternehmen gleichermaßen auszuschöpfen
+\citep[S. 54]{scherer_marken_2012}. Zweitens müssen Communities --
+sofern sie nicht von alleine, also durch reine Initiative der Kunden,
+entstehen -- aktiviert werden, indem die Interaktion von und zwischen
+Kunden gefördert wird. Drittens, die Community muss die übrigen
+Maßnahmen im Marketingmix ergänzen und umgekehrt. So ist es für eine
+effektive Ansprache nötig ein umfangreiches Spektrum an Event- und
+Dialogmaßnahmen anzubieten, da Communities neben ihrer -- heutzutage --
+primär virtuellen Erscheinung auch im Realen existieren \citep[S.
+55]{kaul_community-marketing:_2008}. Viertens müssen relevante
+Kompetenzen im Unternehmen identifiziert werden, denn sie sind
+Grundvorraussetzung für sinnvolle und damit wertschöpfende
+Interaktionen. Das bedeutet einerseits, dass sich das Management einer
+Community an den Ressourcen und Fähigkeiten des Unternehmens orientieren
+muss und aber auch andererseits, dass Markeneigenschaften, die in der
+Community \emph{gehandelt} werden durch Kompetenzen abgesichert werden
+müssen. \citep[S. 69 f.]{kaul_community-marketing:_2008}. Gerade die
+Punkte Drei und Vier werfen die Frage auf, wie denn eine Community und
+ihr Management innerhalb eines Unternehmens aufgehängt sein sollte um
+über funktionale, thematische und geografische Unternehmensbereiche
+hinweg zu fungieren und Kernkompetenzen dieser zu identifizieren,
+abzurufen und zu nutzen.
+
+\subsection{Media Communities}\label{media-communities}
+
+Neben den \emph{Markengemeinschaften} haben sich auch zwei weitere
+Varianten herauskristallisiert: \emph{Netzwerkgemeinschaften} und
+\emph{Mediengemeinschaften}. Stehen bei \emph{Netzwerkgemeinschaften}
+vor allem die Selbstdarstellung und die Vernetzung mit anderen
+Mitgliedern im Vordergrund, bilden sich Mediengemeinschaften um
+Cross-Channel-Medienunternehmen aus. Im Gegensatz zu Brand Communities
+sind die Medienmarken aber nicht zentraler Bestandteil der Community,
+sondern stellen eine Möglichkeit zur Kommunikation der Mitglieder
+untereinander bereit. Deshalb sind die Themen, die dort behandelt werden
+auch vollkommen losgelöst von der Medienmarke. Oft ist auch die
+Zugehörigkeit der Community zum Unternehmen bewusst verschleiert, wie
+etwa bei \emph{gutefrage.net}. Die Mitglieder solcher Communities nutzen
+diese utilitaristisch, als Mittel zum Zweck einer
+Bedürfnissbefriedigung. Die die Medienunternehmen nicht Bestandteil der
+Diskussion sind und so keinen Nutzen aus der Kommunikation der
+Mitglieder ziehen können, verfolgen sie direkte und indirekte
+kommerzielle Ziele, etwa durch Schaltung von Anzeigen oder durch die
+Verwendung von nutzergenerierten Inhalten in ihren übrigen
+Medienprodukten. Der Nutzen der Community beschränkt sich also nicht nur
+auf \emph{weiche} Konstrukte wie Markenloyalität, Kundenbindung und
+Fürsprechertum als ökonomisch relevante Größen, sondern verfügt auch
+über \emph{harte} wertschöpferische Elemente wie Inhalte für
+Medienunternehmen \citep[S. 24 f.]{scherer_marken_2012}. Zusammengefasst
+offenbaren \emph{Mediengemeinschaften} drei Charakteristika, die --
+nicht nur weil der O'Reilly Verlag ebenfalls ein Medienunternehmen ist
+-- essentiell für diese Arbeit sind: Erstens, thematische Entkoppelung
+von Marke und Community; Zweitens, direkte und indirekte kommerzielle
+Ziele des Betreibers und drittens, die Produktion von verwertbaren
+Inhalten durch Nutzer.
+
+\subsection{Epilog -- Leistungserstellung durch Brand
+Communities}\label{epilog-leistungserstellung-durch-brand-communities}
+
+Dass Nutzer von Communities nicht nur indirekt Unternehmen unterstützen,
+sondern auch direkt in die Leistungserstellung eingreifen können, haben
+auch Muniz \& O'Guinn schon erkannt. So heißt es in im Fazit ihres
+Artikels:
+\enquote{We do not, however, believe brand community members to be simple dupes or boosters of a false consciousness who foolishly exchange economic participation for limited cultural capital and social connection}\citep[S.
+428]{muniz_brand_2001}. Sie ahnen, dass die Nutzer nicht fahrlässig, und
+unter falschen Erwartungen, an Communities teilhaben, sondern sich sehr
+wohl bewusst sind, welchen Nutzen sie für die Unternehmen darstellen.
+Daraus lässt sich eine Bewegung dahingehend ableiten, dass Nutzer
+stärker noch in die Prozesse eingebracht werden wollen, im Gegenzug dazu
+aber, neben Anerkennung in der Community, auch eine Gegenleistung
+erwarten. Aufgegriffen haben sie den Gedanken in ihrem 2009 erschienen
+Artikel \enquote{How Brand Community Practices Create Value}, der nicht
+nur thematisch ein wichtiger Baustein für diese Arbeit ist, sondern auch
+methodisch die gleiche Herangehensweise --- nämlich die Theorie sozialer
+Praktiken; dazu mehr im nächsten Abschnitt
+\ref{praktiken-in-brand-communities} --- wählt. Jedoch interpretieren
+die Autoren Wertschöpfung lediglich im Sinne vom Nutzen für Unternehmen,
+wie er bereits im vorigen Kapitel beschrieben wurde, als Mittel zur
+Kundenbindung, zum Sammeln von Bedürfnisinformationen,
+Absatzverdichtung; die beschriebene Wertschöpfung beschränkt sich --
+wenn man so will -- \emph{nur} auf Marketingebene \citep[S.
+40]{schau_how_2009}. Symptomatisch dafür ist, dem Begriff des
+\emph{Value} den die Community generiert, erstens das Verb \emph{add}
+vorsteht, der Wert wird zu etwas hinzugefügt und zweitens, mit
+\emph{Mehrwert} ins Deutsche übersetzt wurde \citep[S.
+74]{bauer_brand_2011}. Der Wert haftet also an etwas --- in diesem Fall
+sind das die Produkte und die Marke eines Unternehmens ---, verstärkt
+dessen Wirkung aber stellt an sich, isoliert, keinen selbstständigen
+Wert dar.
+
+\section{Verteilte Innovationsprozesse -- Interaktive
+Wertschöpfung}\label{verteilte-innovationsprozesse-interaktive-wertschuxf6pfung}
+
+Ein anderes Themengebiet, in dem Communities immer wieder erforscht und
+diskutiert werden, stellt das Innovationsmanagement dar. Grundidee
+hinter den Modellen und Prozessen, die in diesem Kapitel vorgestellt
+werden sollen, ist, dass externe Akteure und auch Kunden in den Prozess
+der Wertschöpfung eines Unternehmens eingebunden werden sollen.
+Grundlegend wird in einem Prolog die Entgrenzung der Unternehmung und
+der damit verbundenen Abkehr von industriellen Wertschöpfungsprinzipien,
+sowie die Etablierung neuer Organisationsformen für Informationsgüter
+behandelt.
+
+\subsection{Prolog -- \emph{die grenzenlose Organisation}, Ökonomie des
+Netzwerkes und der
+Informationen}\label{prolog-die-grenzenlose-organisation-uxf6konomie-des-netzwerkes-und-der-informationen}
+
+\subsubsection{Netzwerkorganisationen}\label{netzwerkorganisationen}
+
+Neue Produktions- aber vor allem effizientere Informations- und
+Kommunikationstechnologien verändern die betriebliche Wertschöpfung
+\citep[S. 296 ff.]{picot_grenzenlose_2003}. Mit Hilfe modernen
+Fertigungstechnik kann der Spagat zwischen Flexibilität und Qualität,
+als auch zwischen Produktivität und Effizienz bewältigt werden.
+Informationen werden zu einem wichtigen Produktionsfaktor und
+Kommunikationstechnologien stellen den Zugang dazu weltweit und nahezu
+synchron her. Die Vernetzung und der daraus resultierende Abbau von
+Informationsasymetrien führt auch zu einer Intensivierung der
+Wettbewerbs. Einerseits, durch das Hinzukommen neuer Wettbewerber auf
+vormals unerschlossenen Märkten, andererseits, durch die Zunahme an
+Informationen die den Käufern zur Verfügung steht.
+
+Das veränderte Umfeld erzeugt neue institutionelle Gegebenheiten mit
+denen sich Unternehmen beschäftigen müssen und bringt eine neue Form der
+Organisation hervor, welche auf Flexibilität ausgerichtet ist und eine
+globale Orientierung ausweist. Kommunikationswege werden direkter und
+Hierarchien dadurch flacher. Dispositive und objektbezogene Arbeit
+werden nicht mehr getrennt betrachtet, sondern in Organisationseinheiten
+modularisiert, die eng miteinander vernetzt sind. Dadurch verändern sich
+auch die Prinzipien nach denen betriebswirtschaftliche Führung
+geschieht. Klassiche Grundsätze -- wie der Nutzung von Skaleneffekten --
+haben weiterhin ihre Richtigkeit und werden eine Rolle spielen, wenn
+auch eine Untergeordnete. Im Vordergrund stehen die Allokation und
+Koordination von Informationen, da Unternehmen mehr und mehr zu
+virtuellen, statt physischen, Wertschöpfungsplattformen werden, die
+netzwerkartig organisiert sind \citep[S. 9 ff.]{picot_grenzenlose_2003}.
+
+\blockquote{Ziel von Netzwerkorganisationen ist die Kombination der  Vorteile von hierarchischen und marktlichen Organisationsformen: die Zusammenlegung von komplementären Ressourcen verschiedener Unternehmen für die gemeinsame Wertschöpfung soll die Effizienz einer einheitlichen hierarchischen Organisation erreichen. Gleichzeitig sollen aber die Flexibilität und die Autonomie der einzelnen Unternehmen aufrechterhalten werden, indem sich die Unternehmen durch marktliche Arrangements nur lose aneinander binden.}
+\citep[S.37]{reichwald_interaktive_2009}
+
+Infolge dessen, kommt es auf bei industriellen Produktionsunternehmen --
+besonders auf der Beschaffungsseite -- zu Kooperationen mit anderen
+Unternehmen, die sich nach und nach zu einem Produktionsnetzwerk
+zusammenfügen.
+
+Mit dem Fokus auf Kommunikation und Koordination verändert sich auch die
+Beurteilungsgrundlage für effizientes Wirtschaften. Während die Ziele
+der industriellen Wertschöpfungslogik die Reduktion von
+Produktionskosten und die effiziente Allokation betrieblicher Ressourcen
+sind, stellen hier nun die Reduktion der Kosten für Koordination und
+Motivation aufgrund von Arbeitsteilung, Spezialisierung und Auslagerung
+die Optimierungsaufgabe dar \citep[S. 35]{reichwald_interaktive_2009}.
+Diese Kosten der Information und Kommunikation werden als
+Transaktionskosten bezeichnet, da sie die Aufwände für die Übertragung
+von Handlungs- und Verfügungsrechten, die sogenannten
+\emph{Property-Rights}, beschreiben. Sie beinhalten die Kosten der
+Anbahnung, Abwicklung, Kontrolle und Anpassung. Ziel ist es, bei
+gegebenen Produktionskosten -- denn diese spielen nach wie vor eine
+Rolle --, die Transaktionskosten durch eine geeignete Organisationsform
+zu minimieren \citep[S. 998 ff.]{schreyogg_organisationsgrenzen_2004}.
+Werden \emph{Property-Rights} nicht exklusiv oder mangelhaft -- zum
+Beispiel aufgrund zu hoher Aufwände und damit einhergehenden
+Transaktionskosten -- vergeben, entstehen \emph{Externe Effekte}. Das
+sind Nutzenbeziehungen zwischen Akteuren, die nicht kompensiert werden
+und die positiv oder negativ sein können. Entstehen durch eine Handlung
+eines Akteurs zusätzliche Kosten für Andere -- soziale Kosten -- so sind
+das negative Externalitäten. Wird dagegen ein sozialer Nutzen generiert,
+so spricht man von positiven Externalitäten.
+
+\subsubsection{Ökonomie der
+Informationsproduktion}\label{uxf6konomie-der-informationsproduktion}
+
+Im Hinblick auf das in dieser Arbeit betrachtete Unternehmen, die
+Community und den inhaltichen Themenkomplex der die beiden miteinander
+verflechtet, also Akteure und Handeln in diesen Umwelten maßgeblich
+beeinflusst, ist es an dieser Stelle sinnvoll, auch auf die ökonomischen
+Grundcharakteristiken der Informations- oder Wissensproduktion und die
+damit verbunden Problematiken einzugehen.
+
+Erstens, weisen Informationsprodukte starke Skaleneffekte bei der
+Produktion auf. Grund dafür ist das Phänomen, der so genannten
+\emph{First Copy Costs}. Die Kosten für die erstmalige Produktion von
+Informationen sind, in Relation zu der nachfolgende Vervielfältigung,
+sehr hoch. Neue Telekommunikation- und Informationstechnologien
+verschärfen diesen Effekt zusätzlich. Sind Informationen erstmal
+produzierst und liegen in digitaler Form vor, können sie zu
+verschwindend geringen Kosten reproduziert, kopiert und verteilt werden.
+Die Grenzkosten streben also gegen Null. Zweitens, können Informationen
+als öffentliche Güter definiert werden, denn zum einen herrscht wenig
+Rivalität im Konsum und zum anderen, können Konsumenten nur schwer --
+oder nur zu sehr hohen Aufwänden und damit Kosten -- vom Konsum dieser
+Güter ausgeschlossen werden.
+
+Aus diesen beiden Eigenheiten, gehen einige schwerwiegende Problematiken
+hervor, die eine Produktion von Informationen in Markt-, Hierarchie- und
+auch Hybridsystemen in Frage stellt. Folgt man der klassischen
+ökonomischen Auffassung der Preis eines Produktes sollte sich an seinen
+Grenzkosten orientieren, müssten Informationen in digitaler Form umsonst
+sein. Nicht nur die Produktionskosten bestimmen den Preis, sondern auch
+Knappheit und die Handlungs- und Verfügungsrechte die von einem Gut
+ausgehen. Informationen in digitaler Form sind theoretisch gesehen nicht
+knapp. Sie können zu sehr geringen Kosten reproduziert werden und werden
+aufgrund der geringen Rivalität nicht \emph{aufgebraucht}; sie liegen
+also nach Konsum in gleicher Qualität und Quantität vor. Die schwere
+Auschließbarkeit von Konsumenten von Informationen bedingt, dass
+Verfügungs- und Handlungsrechte nicht explizit auf die Konsumenten
+übertragen werden können. Produzenten von Informationen produzieren also
+einen sozialen Nutzen, oder müssen ihn in Kauf nehmen, der nicht über
+das Marktsystem und den Preismechanismus abgebildet wird; es entstehen
+also positive Externalitäten. Was zunächst nicht unvorteilhaft klingt,
+kann jedoch dazu führen, was im wissenschaftlichen Diskurs als die
+\emph{Tragödie der Allmende} bezeichnet wird und in originärer Bedeutung
+die Übernutzung und daraus resultierender Verbrauch von Gütern, mit
+hoher Rivalität aber geringer Ausschließbarkeit beschreibt. Angewendet
+auf Güter, die -- wie Informationen -- keine Rivalität aufweisen,
+besteht nicht die Gefahr der Übernutzung, sondern die Problematik der
+Unterversorgung. Da Akteure, die keine Gegenleistung für den Zugang
+erbringen, nur unter hohen Kosten vom Konsum ausgeschlossen werden
+können, sind die ideelen und monetären Anreize für den Produzenten
+gering.
+
+Ausgehend von diesen beiden Beobachtungen und dem Verständnis, dass der
+Schutz geistigem Eigentums nur eine mangelhafte Option darstellt, da die
+Transaktionskosten -- gerade in der Situation, in der Informationen
+Basisproduktionsfaktoren darstellen, also in großen Mengen vorliegen --
+um Verfügungs- und Handlungsrechte exklusiv und ausreichend zuzuweisen
+schlicht zu hoch sind, wird klar, dass der Markt keinen optimalen, oder
+sogar ungenügenden, Mechanismus darstellt um Informationen zu tauschen,
+zu teilen und zu produzieren. Hybride Netzwerkarrangements sind
+ebenfalls nur bedingt geeignet, da sie auch auf dem marktlichen
+Preissystem und der Vergabe von Verfügungs- und Handlungsrechten
+basieren \citep[S. !!]{mandeville_understanding_1995}. Eine Lösung für
+die \emph{Tragödie der Allmende} sieht man seit den Forschungen von
+Elinor Ostrom \citeyearpar{ostrom_verfassung_1999}, in Anlehnung an den
+Untertitel ihres Werkes, jenseits von Markt und Staat: nämlich in der
+Koordination der Ressourcen in \emph{Communities}, in Gemeinschaften und
+der Hilfe von Institutionen.
+
+\subsection{Mechanismus -- \emph{Commons-Based Social
+Production}}\label{mechanismus-commons-based-social-production}
+
+Yochai Benkler greift ebenfalls den Aspekt auf, dass die beiden
+Organisationsformen Markt und Hierarchie nicht optimal geeignet sind um
+die Informationsproduktion zu organisieren. Insbesondere im Hinblick auf
+Kreativität, Fähigkeiten, Motivation und Fokus sind sie
+\emph{verlustreiche Trägermedien} \citep[S. 5]{benkler_coases_2002}. Er
+entwirft einen Koordinationsmechanimus, der gerade für die Produktion
+von Informations- und Kulturgütern geeignet ist. Er sieht im Internet
+eine radikale Technologie, die das Ende der industriellen
+Medienproduktion und -konsum und die Ära der Wissenswirtschaft
+einläutet. Gründe dafür sieht er darin, dass die Produktion von
+\emph{human meaning} -- er versteht darunter nicht-physisches
+Erzeugnisse eines Menschen; etwa Produkte seiner Kreativität, Meinungen
+oder Aktionen -- den Hauptbestandteil der Wirtschaftsleistung darstellt
+und, dass die dafür nötigen physischen Produktionsmittel lediglich
+Informations-- und Kommunikationsmittel sind. Insgesamt betrachtet er
+drei Inputfaktoren der Informations und Kulturwirtschaft:
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Existierende Informationen und Kulturgüter,
+\item
+  Mechanismen und Werkzeuge um unsere Umwelt wahrzunehmen, sie zu
+  verarbeiten und neue Informationsgüter zu produzieren und
+\item
+  Menschliche kommunikative Fähigkeit, Erfahrung und kulturelle
+  Bewusstsein, um die bereits existierenden Informationen und
+  kulturellen Mittel mit einem neuen Verständnis zu versehen und zu für
+  Andere in bedeutungsvolle Darstellungen zu transformieren.
+\end{itemize}
+
+Wie im vorigen Abschnitt bereits erläutert sind Informationen und
+kulturelle Güter -- zumindest in digitaler Form -- nach ökonomischer
+Auffassung keine begrenzte Ressource. Sie müssen jedoch frei verfügbar
+sein. In diesem Kontext bedeutet frei nicht nur kostenlos, sondern auch
+frei im dem Sinne, dass sie modifiziert, verwendet und weitergegeben
+werden dürfen, auch in einem kommerziellen Umfeld. Aufgrund fallender
+Kosten für Hardware und Netzwerkverbindungen ist auch der zweite
+Inputfaktor keine begrenzende Hürde. Der letzte Faktor ist nach Benkler
+(2006, S. 52) der Flaschenhals der Informations und
+Kulturgüterwirtschaft und unterscheidet sich grundlegend von den anderen
+Inputfaktoren. Er kann nicht produziert, gelagert, übertragen und auch
+nicht bei Bedarf unverzüglich hergestellt werden. Kurzum, für
+Produktions- und Managementsysteme der industriellen Wirtschaft, die auf
+kontrollierbare Parameter und rationale Entscheidungen basieren und
+durch Markt und Hierarchiemechanismen organisiert werden ist dieser
+Produktionsfaktor nicht zu steuern.
+
+\input{images/transaktionskosten.tex}
+
+Die gemeinsame, verteilte Wissensproduktion im Internet -- die
+\emph{Social Production} -- stellt für ihn, den optimalen
+Koordinationsmechanismus für zukünftige vernetze Informationswirtschaft
+dar, da sie, laut Benkler, einen systematischen Vorteil gegenüber
+Ansätzen wie Markt, Hierarchie und auch den Hybriden dazwischen hat.
+Dieser liegt darin, dass die \emph{Social Production} zwei für diese
+Ansätze zentrale Mechanismen aushebelt, die zu hohen Transaktionskosten
+führen: Preis und Weisung \citetext{\citealp[S.
+40]{benkler_coases_2002}; \citealp[S. 108 ff.]{benkler_wealth_2006}}. In
+Hierarchien und Märkten, sowie den dazwischenliegenden hybriden
+Netzwerkorganisationen müssen diese Funktionen scharf -- Benkler spricht
+hier von \emph{crispness at the margins} -- definiert sein. Diese
+trennscharfe, präzise Bestimmung und Aufteilung auf die Akteure
+verursacht in diesen Organisationsformen hohe Transaktionskosten
+\citep[S. 104]{benkler_wealth_2006}.
+
+\emph{Social Production} fußt nicht auf dem Preismechanismus, sondern
+basiert auf Gemeingütern -- \emph{Commons} -- und deren sozialem
+Austausch. Damit entledigt sie sich der langwierigen, aufwändigen und
+damit transaktionskostenreichen Verhandlung von Preisen für
+Informationsgüter. Ungenauigkeit und vielleicht auch Ungerechtigkeit
+werden dabei in Kauf genommen, in der Hoffnung oder Erwartung, dass sie
+sich langfristig nivellieren.
+
+Weisungen werden im Modell der \emph{Social Production} durch das Mittel
+der Selbstselektion ersetzt, welches gleich mehrere Probleme der
+üblichen Organisationsformen im Umgang mit Humankapital angeht und
+effizienter lösen kann: Koordination und Motivation. Zum einen reduziert
+sie die Transaktionskosten durch die bessere Identifikation und
+Allokation von Humankapital. Da sich die Akteure ihre Aufgaben selbst
+suchen, müssen keine Transaktionskosten aufgebracht werden um
+Informationen zu erlangen für fundierte Entscheidung über Qualifikation
+und Zuordnung von passenden Aufgaben. Desweiteren treten bei der
+Selbstselektion Skaleneffekte auf. Je mehr Akteure und Projekte
+vorhanden sind, desto schneller und einfacher die \emph{Selbst}zuordnung
+von Aufgaben und Personen und desto höher die Wahrscheinlichkeit, dass
+für spezifisches Problem ein qualifizierter Problemlöser vorhanden ist.
+Zum anderen, sind Akteure, die sich ihre Aufgaben selbst suchen
+intrinsisch motiviert diese effizient, kreativ und qualitativ hochwertig
+zu bearbeiten.
+
+Diese Thesen entspringen der Beobachtungen der Praxis. Benkler sieht den
+Ursprung der \emph{Social Production} in der \emph{Open Source} Bewegung
+der Softwareentwicklung. Auf die Frage hin, warum in diesem Umfeld es
+vollkommen selbstverständlich erscheint, kooperativ zu arbeiten, seine
+Software und den Quellcode dazu frei zu veröffentlichen und jegliche
+Modifikation sowie Weitergabe ohne finanziellen Anspruch zu erlauben,
+entgegnet er, dass sich weder die menschliche Natur auf einmal geändert
+hat, oder die Gesetzte der Ökonomie neu geschrieben werden müssten. Die
+Praktiken des Austauschs und des Teilens seien über ihre ursprüngliche
+Domäne der zwischenmenschlichen Bindungen, dem Stillen menschlicher
+psychologischer und emotionaler Bedürfnisse nach Anerkennung und
+Gemeinschaft hinausgewachsen und seien nun der Kern der vernetzten
+Informationsproduktion. Sie erfüllen dort die Aufgabe der Motivation,
+Information und Organisation von produktiven Verhalten \citep[S.
+92]{benkler_wealth_2006}. Eine psychologische und soziale Entlohnung,
+ersetzt -- in gewissem Maße -- die Monetäre.
+
+!! Da musst du nocheinmal nachlesen Damit geht auch Kritik an dem Ansatz
+der \emph{Social Production} einher. Ermöglichte doch die strikte
+Trennung von Privatem und Beruflichen die individuelle Autonomie
+\citep[S. 1404]{weber_economy_1978}.
+
+\subsection{Synthese -- Open Innovation
+Communities}\label{synthese-open-innovation-communities}
+
+Die vorigen Kapitel zusammenfassend, lassen sich folgende Bewegungen
+erkennen: Erstens, die Zuwendung des Kunden hin zu Marken und Produkten,
+auch oder gerade wegen der fehlenden Antizipation durch die jeweiligen
+Unternehmen. Zweitens, eine Öffnung des Unternehmens nach außen und eine
+Modularisierung und Veräußerung von Wertschöpfungseinheiten in
+Netzwerke, deren Koordination in einem hohen Maße von Informationen und
+Kommunikation abhängt. Und drittens, die gemeinschaftliche, vernetzte
+Produktion von Informationsgütern, die nicht auf propretären und
+marktlichen Mechanismen basiert sondern auf sozialen Prozessen und frei
+verfügbaren Informationen im Sinne von Gemeingütern. Allen Ansätzen ist
+gemein, dass ihre Entstehung und Entwicklung von digitalen
+Kommunikations- und Informationstechnologien initiiert und
+vorangetrieben wird.
+
+In der Innovationsforschung spielen diese Bewegungen ebenfalls eine
+Rolle. Mit dem Aufkommen von Brandcommunities begann man, nicht nur im
+Marketing, diese instrumentalisieren. Man begann Kunden und deren
+geäußerte Bedürfnisse systematisch zu erfassen und in die
+Produktentwicklung miteinfließen zu lassen. \emph{Voice of the customer}
+Ansätze nutzen alle Register der Marktforschung um repräsentative
+Einschätzung der Bedürfnisse von Kunden zu erlangen um marktliche
+Unsicherheiten wesentlich zu reduzieren, stellt aber lediglich eine
+Kundenorientierung dar \citep[S. 129]{reichwald_interaktive_2009}. Mit
+der Öffnung der Unternehmensgrenzen hin zu Netzwerkorganisationen
+ergeben sich auch im Innovationsprozess neue Möglichkeiten. Das von
+Chesbrough \citeyearpar{chesbrough_open_2003} etablierte Modell der
+\emph{Open Innovation} beschreibt Prozesse zur verteilten Problemlösung
+mit Lieferanten, Wettbewerbern und Technologiepartnern zu innovativen
+Produktionsnetzwerken. Gründe für die Abkehr von geschlossenen -- closed
+-- Innovationenprozessen, bei denen sich Unternehmen nur auf interne,
+eigene Potentiale und Möglichkeiten verlassen hatten, sind vor allem
+steigende Kosten und Komplexität der Forschung, die ungleichmäßige
+Verteilung von Wissen in Universitäten und Labors, sowie sich
+beschleunigende Technologieentwicklungszyklen. Unternehmen können es
+sich nicht mehr erlauben, die ergiebigen Ressourcen externer
+Informationen und Wissen, zu ignorieren und Probleme intern zu lösen
+\citep[S. 206]{chesbrough_open_2006}.
+
+Zwar erfolgt hier eine hochwertige Integration und nicht nur
+Orientierung in die Wertschöpfungsebene eines Unternehmens, jedoch
+vorrangig nur von Produktions- und Beschaffungspartnern. Die vollwertige
+Integration von Kunden findet sich in \emph{Lead-User} Konzeptionen.
+Dort werden Kunden oder Nutzern, die so genannte \emph{Lead-User}
+Eigenschaften aufweisen in den Entwicklungsprozess von Produkten
+integriert. Zum einen sind das solche Kunden/Nutzer, die sich an der
+Spitze/Front/Vorderfront von Markttrends befinden und Bedürfnisse schon
+jetzt haben, welche die Mehrheit erst später erlebt. Zum anderen,
+erwarten diese Kunden/Nutzer auch von der Befriedigung dieses
+Bedürfnisses überproportional zu profitieren und sind deshalb motiviert
+zu innovieren \citep[S. 22]{hippel_democratizing_2005}. Das bis dato
+etablierte \emph{Manufacturer Active Paradigm}, in dem Unternehmen
+innovieren und produzieren und der Kunde konsumiert, wendet sich zum
+\emph{Customer Active Paradigm}, bei dem der Kunde einen aktiven
+integralen Bestandteil an Innovation und Wertschöpfung, darstellt
+\citep[S. 242 f.]{von_hippel_customer-active_1978}.
+
+Die Funktion des Kunden ist dabei nicht, lediglich Informationen über
+Benutzung und Bedürfnisse zu liefern, sondern -- und hier sieht man den
+Grundausrichtung des \emph{Open Innovation} Gedanken durchschimmern --
+auch Lösungen zu entwickeln \citep[S. 153]{reichwald_interaktive_2009}.
+Die Forschung ist in diesem Bereich tief in der herstellenden Industrie
+verwurzelt und so ist es nicht verwunderlich, dass das Denken stark von
+Ordnungen des Marktes und der Hierarchie und seinen Mischformen geprägt
+ist. Wendet man nun diesen Entwurf der \emph{Open Innovation} und der
+aktiven, vollwertigen Kundenintegration auf die Sphäre der
+Informationswirtschaft und ergänzt es mit dem Produktionsmechanismus der
+Benklerschen \emph{Social Production}, -so ergibt sich ein umfassender
+Ansatz, mit dem Strategien von Unternehmen wie \emph{Canonical} und dem
+\emph{O'Reilly} Verlag beschrieben und verstanden werden können.-
+
+Die Synthese der Entwicklungen, stellt eine umfassende Kundenintegration
+-- nicht nur Kundenorientierung -- auf allen Wertschöpfungsebenen dar.
+Die Grenzziehung zwischen Unternehmen, Kunde und Produkt, sowie zwischen
+den Mechanismen Organisation, Hierarchie, Markt, Kommunikation ist
+unscharf. Die interaktiven Werkstätten, der Ort, für die Zusammenarbeit
+von externen Akteuren und Unternehmen sind Communities. Neue
+Kommunikations- und Informationstechnologien stellen flexible
+Kooperationsmodi bereit, die Communities zu potenten Gestaltungsräumen
+heranwachsen lassen. Sie sind nicht mehr nur Ort der Kommunikation,
+sondern auch Plattform für Austausch, Werkstatt und Werkzeug, um kreativ
+-- auch Sinne von schaffend -- tätig zu werden. Als offenes Netzwerk
+organisiert, weisen sie auch dessen Effekte auf: Sie verstärken sich
+also mit jedem Austausch, mit jedem neuen Nutzer, mit jeder neuen Idee,
+mit jedem neuen Werk selbst und werden so zu wertvollen
+Wissensproduzenten und -speichern.
+
+\paragraph{Vom Geben und Teilen: \emph{Free
+Reavealing}}\label{vom-geben-und-teilen-free-reavealing}
+
+Zentrale Funktion und Eigenschaft die sich sowohl in Benklers sozialer
+Produktion, als auch im Hippelschen Ansatz der demokratischen Innovation
+mit \emph{Lead Usern} findet, ist das Teilen von Wissen. In der
+Innovationstheorie mit \emph{Free Revealing} beschrieben, bedeutet es,
+dass Nutzer von Communities ihre Ideen oder das Erarbeitete, sowie
+Informationen, intellektuelles Eigentum und Know-How bereitwillig mit
+anderen Nutzern, auch Trittbrettfahrern, teilen, selbst wenn sie davon
+keinen eigenen, direkten -- im Sinne von finanziellen -- Nutzen haben.
+Zahlreiche Studien haben dieses -- scheinbar paradoxe -- Verhalten in
+offline sowie online Communities, unter- und versucht zu erklären.
+Innovative Nutzer innerhalb und außerhalb von Communities treten mit
+ihren Ideen an Hersteller heran, um in ihnen eine professionelle Hilfe
+für die Umsetzung ihrer Vorstellungen zu finden. Innerhalb der Community
+profitieren Nutzer von der Verbesserung ihrer Reputation, dem Setzen von
+informellen Standards und, dass andere Nutzer ähnliche Innovationen
+ebenfalls freigeben und umgekehrt befördert die wahrscheinliche Existenz
+von ähnliches Innovationen den Entschluss sie frei verfügbar zu machen.
+Ebenfalls sind, vor allem in Open Source Communities, Normen der
+Gemeinschaft, Freundschaft und das Gefühl der Zugehörigkeit, sowie
+Intellektuelle Stimulation und die Aneignung von Wissen wichtige
+Faktoren \citep[S. 62]{fuller_innovation_2007}. Franke und Shah
+\citeyearpar[S. !!]{franke_how_2003} konnten außerdem den, vielleicht ,
+offensichtlichsten und trivialsten Grund dafür finden: es macht Spaß und
+Freude gemeinsam etwas zu schaffen. In der Open Source Community hat das
+Teilen von hoch qualitativen Code auch etwas mit Respekt zu tun, den
+sich Entwickler so untereinander verschaffen
+\citep[S.86]{hippel_democratizing_2005}. Jedoch ist es ebenfalls
+denkbar, dass dahinter auch eine andere Motivation steckt. Es hat sich
+zur gängigen Praxis entwickelt, dass Entwickler bei Bewerbungen für Jobs
+auch ihren Accountnamen von etwaigen Open Source Plattformen anzugeben.
+Im Falle des momentan beliebtesten Anbieters \emph{Github} hat sich auch
+schon eine nicht offizielle Seite (http://resume.github.io) entwickelt,
+die aus den Informationen aus den öffentlichen Informationen zu einem
+Account ein Profil ähnlich eines Portfolios erstellt. Zwar ist dieser
+Antrieb nicht im direkten Sinne mit dem Geist der Open Source Gemeinde
+vereinbar, nichts desto trotz bleibt das Ergebnis das selbe, denn die
+Projekte und der Code sind frei verfügbar. Diese intrinsischen
+Motivationen werden durch die Ineffizienz des Schutzes von geistigen
+Eigentum ergänzt. Die einzige Möglichkeit geistiges Eigentum
+vollumfänglich rechtlich zu schützen stellen Patente dar. Beantragung
+dieser und Eintreibung von Lizenzen durch sie ist kostenintensiv und
+langwierig. Im Falle von Informationsgütern außerdem nicht einfach, da
+Code oder Informationen, respektive Ideen nur in Verbindung mit
+Methoden, Mechanismen oder Technologien und nicht alleinstehend
+patentiert werden können und außerdem einer Prüfung auf Neuheit,
+ausreichender Schaffungshöhe und Anwendbarkeit unterzogen werden müssen
+\citep[S. 84]{hippel_democratizing_2005}. Diese Gründen lassen die die
+Wahrscheinlichkeit für die praktische Anwendung von Patenten und
+finanziellen Nutzen daraus, gerade für Nutzerinnovatoren, gegen Null
+streben. Die Konsequenz daraus ist, dass Innovatoren nur wenig aufgeben
+und viel gewinnen können, wenn sie sich dazu entscheiden ihre Arbeit
+frei verfügbar zu machen.
+
+Zusammenfassed decken sich die Gründe und Motivationen der Open
+Innovation Communities Innovationen mit Anderen zu teilen, sie
+\emph{aufzudecken} mit denen, die Benkler für die \emph{Social
+Production} ausgibt: Die psychologische Entlohnung ersetzt eine
+Finanzielle. Das ist in sofern nicht verwunderlich, da die Benklersche
+Perspektive stark von der Open Source Bewegung beeinflusst ist. Jedoch
+zeigen auch Studien, die nicht in der Informationsgütersphäre
+angesiedelt sind, ähnliche bis deckungsgleiche Ergebnisse
+\citep{harhoff_profiting_2003}.
+
+Wie Unternehmen von solchen Open Innovation Communities profitieren
+können, dazu gibt es in der Literatur im wesentlichen zwei Ansätze:
+Erstens, durch Auswertung und Beobachtung von bereits existierender
+Communities, wobei bei diesem Vorgehen die Schwierigkeit darin besteht,
+relevante Beiträge aus der Fülle an Inhalten herauszufiltern. Die zweite
+Möglichkeit besteht darin, eine Innovations Communities aufzubauen.
+Während bei der Beobachtung und Auswertung existierender Communities die
+Innovation eher ein Beiwerk der Community, dass erst durch die gezielte
+Identifikation von nützlichen Inhalten durch das Unternehmen realisiert
+wird, steht die Schaffung von Innovationen bei dieser Methode im
+Mittelpunkt der \emph{Arbeit} der Community. Initiierung und vor allem
+die notwendige Betreuung der Communities ist -- wie bereits in Abschnitt
+!!ref-marketingmanagement beschrieben -- eine delikate Angelegenheit und
+schlägt in der Praxis oft fehl. Um diese Gefahr und der damit
+einhergehenden Aufwände und Kosten zu umgehen, können auch
+Innovationsaufgaben aktiv an bereits existierende Communities gestellt
+werden \citep[S. 213 ff.]{reichwald_interaktive_2009}.
+
+\subsection{Open Source Community: Entstehung von Innovationen und
+Zusammenspiel mit
+Unternehmen}\label{open-source-community-entstehung-von-innovationen-und-zusammenspiel-mit-unternehmen}
+
+Ein erweitertes Spektrum der Arten von Zusammenarbeit zwischen
+Unternehmen und Community findet man im Open Source Bereich.
+
+\paragraph{Modi}\label{modi}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Symbiotisch -- Unternehmen sowie Community haben einen Nutzen von der
+  Zusammenarbeit
+\item
+  Commensalistic \texttt{Übersetzen}-- Beide Parteien sind indifferent
+  was den Nutzen angeht
+\item
+  Parasitär -- Nur das Unternehmen kann einen Nutzen aus der
+  Zusammenarbeit ziehen
+\end{enumerate}
+
+\citep[S. 487]{dahlander_relationships_2005}
+
+\chapter{Methodisch: Praxelogische Studien im Bereich der Kooperation
+und
+Community}\label{methodisch-praxelogische-studien-im-bereich-der-kooperation-und-community}
+
+Vorangehend wird klar, dass es bereits gut erforscht ist, was
+Communities ausmacht, welche Qualitäten, sie besitzen, wie sie aufrecht
+gehalten werden und welchen Nutzen und Bedeutung sie für eine Marke, ein
+Unternehmen, eine Industrie haben können. Es wurde belichtet, wie sie
+entstehen und wie sie \emph{gemanaged} werden. Was jedoch nicht
+stattfindet ist eine Beschreibung dessen, was darin -- also zwischen den
+Mitgliedern, den Akteuren einer Gemeinschaft und da sind auch die
+Unternehmen, respektive ihre Vertreter mit eingeschlossen -- passiert.
+Ziele, Wünsche, Prozesse, Methoden wurden erforscht und beschrieben,
+Theorien aufgestellt, aber eine praktische Analyse der Interaktionen
+fehlt. !! Ja eben nicht, eben nicht. Die Theorie der sozialen Praktiken
+ist als sinnvolles Mittel anerkannt um in diesem Bereich wirkungsvoll zu
+forschen (was die Sache ja noch viel besser macht)
+
+\section{Analyseframework -- Theorie sozialer
+Praktiken}\label{analyseframework-theorie-sozialer-praktiken}
+
+\subsection{Practice Turn}\label{practice-turn}
+
+Zunächst muss festgestellt werden, dass die Theorie der sozialen
+Praktiken kein konsistenter, konstanter und einheitlicher Theorierahmen
+ist, sondern eher ein diffuses, loses und abstrahiertes und heterogenes
+Verständnis wie man soziale Phänomene beschreiben und analysieren kann
+\citetext{\citealp[S. 6]{brauchler_theorising_2010}; \citealp[S.
+132]{warde_consumption_2005}; \citealp[S. XII]{schatzki_practice_2001}}.
+Man kann in dieser Charakteristik einen Gegenpol zu den stark
+formalisierten und methodisierten Vorgangsweisen wissenschaftlicher
+Untersuchungen sehen. Es ist ein offener Ansatz und ein methodisch
+unvoreingenommenen Blick nötig um soziale Phänomene in ihrem Umfang,
+Heterogenität und Komplexität beschreiben zu können und verstehen zu
+wollen. Zu den Grundüberzeugungen der Anhänger und Verfechter dieser
+Theorie gehört, das Handlungen nur in ihrem spezifisch, praktischem
+Kontext zu verstehen sind und sie immer wieder neue Regelmäßigkeiten
+bilden \citep[S. 10]{schmidt_soziologie_2012}.
+
+Die Disziplin der sozialen Praktiken kennt viele Väter, die jedoch immer
+einen unterschiedlichen Blick hatten und haben. Schatzki \citeyearpar[S.
+11 ff.]{schatzki_practice_2001} unterscheidet vier Typen von Autoren,
+die in zwei Generationen eingeteilt werden können. Es gibt die
+Philosophen -- Wittgenstein, Taylor, Dreyfus --, die Sozial-Theoretiker
+-- Bourdieu und Giddens --, die Kultur-Theoretiker -- Foucault und
+Lyotard -- und die Wissenschafts- und Technologie-Theoretiker -- Latour,
+Rouse und Pickering. Die erste Generation -- Bourdieu, de Certeau,
+Foucault und Giddens -- installierten das Fundament auf dem heute die
+Theorie sozialer Praktiken steht. Die zweite Generation -- Schatzki,
+Ortner, Reckwitz und Warde -- testen diese nun und erweitern sie nach
+Bedarf.
+
+Vom Großteil dieser Autoren, führt zur Definition von \emph{Praktiken}
+den Minimalskonsens ins Feld, demnach sie schlicht eine Anordnung von
+Aktivitäten -- \emph{array of activities} -- sind, deren
+Verbindungsglied -- \emph{nexus} -- der menschliche Körper ist \citep[S.
+2]{schatzki_practice_2001}. Der Fokus auf den menschlichen Körper,
+seinen Bewegungen und Handlungen ist essentiell für die Praxistheorie.
+Diese kommen jedoch nicht individuell, vereinzelt, punktuell vor,
+sondern sind in einem sozial geteilten, durch implizites, methodisches
+und interpretatives Wissen zusammengeschnürten Bündel als sozial
+verstehbare, typisierte und routinierte Praktik beobachtbar \citep[S.
+289]{reckwitz_grundelemente_2003}.
+
+Schatzki differenziert zwei Arten von Praktiken: integrative und
+disperse Praktiken \citep{schatzki_social_1996}. Disperse Praktiken sind
+einfache Handlungen, die in mehreren Feldern --\emph{Domains} --
+vorkommen können, wie etwa \emph{Untersuchen} oder \emph{Beschreiben}
+\citep[S. 91]{schatzki_social_1996}. Integrative Praktiken sind
+komplexer. Sie treten in bestimmten \emph{Domains} auf und formen diese
+maßgeblich, wie etwa \emph{Kochen} oder \emph{Geschäfte machen}
+\citep[S. 98]{schatzki_social_1996}. Praktiken an sich sind für Schatzki
+ebenfalls Bündeln von \emph{Doing and Sayings} -- im Folgenden wird
+dafür der Begriff des Handlungs-, respektive Sprachakts verwendet --,
+dass in einer Form organisiert ist. Die Handlungs- und Sprachakte stehen
+also in einem Zusammenhang, sie sind miteinander verwoben. Schatzki
+\citeyearpar[S.77]{schatzki_site_2002} gibt dazu vier Arten, wie sie
+miteinander verbunden sind: Erstens, aufgrund eines praktischen
+Verständnisses; zweitens, aufgrund von Regeln; drittens, aufgrund einer
+teleoaffektiven Struktur und viertens, aufgrund eines allgemeinen
+Verständnisses.
+
+\subsubsection{Praktisches
+Verständnis}\label{praktisches-verstuxe4ndnis}
+
+Es bezeichnet nicht, das zu tun, was als praktisch erscheint; also was
+sich in einem Fluss an Handlungen naturgemäß als nächste anstehende
+Handlung ergibt, was für Schatzki die praktische Verständlichkeit --
+\emph{Practical Intelligibility} -- darstellt. Schatzki meint mit dem
+praktischen Verständnis was Bourdieu mit \emph{Habitus} be- und mit
+\emph{having a feeling for the game} umschreibt. Man könnte behaupten,
+dass eine Handlung, die durch ein praktisches Verständnis bedingt wurde,
+durch eine rein praktisch veranlagte Denkweise ausgeschlossen werden
+würde. Es bedarf also einer Art Wissen um den praktischen Kontext der
+Praktik, das dann zu Handlungen führt, die Nicht-Wissenden, aus reiner
+Praktikabilität, nicht ausführen würden.
+
+\subsubsection{Regeln}\label{regeln}
+
+Sie sind in diesem Sinne explizite Formulierungen, Prinzipien und
+Instruktionen, die Menschen anweisen, untersagen oder verhindern eine
+Aktion auszuführen oder im Gegenteil etwas Bestimmtes zu tun. Handlungs-
+und Sprechakte sind in dem Maße durch Regeln verbunden, in dem Menschen
+diese berücksichtigen und ihnen gehorchen. Regeln führen den Aspekt der
+Normativität in das Theoriegebäude der sozialen Praktiken ein.
+\emph{Notice that one way normativity shapes what makes sense to people
+to do is through rules} \citep[S. 79]{schatzki_site_2002}. Sie stellen
+dabei jedoch nicht die explizite Form einer
+unterbewussten/darunterliegenden/unausgesprochenem Verständnis dar,
+sondern sind Formulierungen, die ins Soziale eingeführt werden und der
+Orientierung, respektive der Bestimmung eines Tatenverlaufs dienen, von
+denjenigen entwickelt werden, die auch die Macht haben sie durchzusetzen
+\citep[S. 80]{schatzki_site_2002}.
+
+\subsubsection{Teleoaffektive Struktur}\label{teleoaffektive-struktur}
+
+Handlungs- und Sprechakte sind weiterhin in einer teleoaffektiven
+Struktur eingebunden und so gebündelt. Diesen von Schatzki geschaffene
+Kofferwort beschreibt also zum einen die Zweckgebundenheit von
+Handlungen oder sogar selbst von kognitiven Prozessen und zum anderen
+die Einbindung von Gefühlen.
+
+Für Schatzki ist diese Struktur einer normativierte, hierarchische
+Anordnung von Zielen, Projekten und Aufgaben. Normativiert meint in
+diesem Zusammenhang, das die Ausführung des Aktes auf einem gewissen
+Druck ruht -- sie soll also ausgeführt werden und gleichzeitig kann sie
+auch ausgeführt werden; sie ist für den Ausführenden akzeptabel.
+
+Praktiken sind in Bündeln organisiert, welche sich aus Zielen,
+Projekten, die für die Ziele relevant sind, und Aufgaben, die wiederum
+die Projekte ausmachen, zusammensetzen. Teilnehmer an Praktiken
+vollführen gewöhnlich die Ziel-Projekt-Aufgaben Kombinationen, die in
+der teleoaffektiven Struktur der Praktik vorhanden sind.
+
+Angereichert ist die teleologische Struktur mit Gefühlen und Emotionen,
+die Teilnehmern gefallen oder zumindest gefallen sollten. Schatzki macht
+hier klar, dass teleaffektive Strukturen Handlungen nicht steuern oder
+auslösen -- das geschieht nämlich durch die praktische Verständlichkeit
+-- \emph{Practical Intelligibility} --, welche durch Lernprozesse,
+Training oder Instruktion geformt wird. Außerdem ist sie nicht eine
+Ansammlung von Eigenschaften der Praktikteilnehmer, sondern eine
+Anordnung von Eigenschaften der Praktik an sich. Nicht nur unterscheidet
+sie sich von den Eigenschaften ihrer Teilnehmer, sie ist auch nicht mit
+den kollektiven Zielen und Projekten derer gleichzusetzen. Die
+teleaffektive Struktur ist durch die offene Zusammenstellung der
+Handlungs- und Sprechakte definiert und ungleichmäßig in die Handlungen
+und Verstand der verschiedenen Teilnehmer einer Praktik eingebunden.
+Ziele, zum Beispiel, müssen von den Teilnehmern nicht bewusst
+wahrgenommen, also explizit ausgewählt und verfolgt werden. Einer Person
+kann also zu jedem Zeitpunkt, die teleologischen Ziele einer Praktik,
+welche bestimmen was für sie Sinn ergibt und was nicht, nicht bewusst
+sein \citep[S. 81]{schatzki_site_2002}. Dabei können Ziele, Projekte,
+Aufgaben oder Emotionen, welche die teleoaffektive Struktur einer Praxis
+ausmachen auch in Konflikt mit den Teilnehmern der Praktik stehen und so
+Kontroversen auslösen, die jedoch nicht zwangsläufig zur Unterlassung
+der Praktik führen. Somit ist auch klar, dass eine Teilnahme an einer
+Praktik zwar eine gewisse Akzeptanz durch den Teilnehmer bedingt, jedoch
+muss der Teilnehmer, der teleologischen Ausrichtung der Praktik folgend,
+nicht zwingend gleicher Meinung sein. Er kann, obwohl er sie ausführt,
+ein anderen normativen Standort haben, als die Praktik und die in ihrer
+teleoaffektiven Struktur verankerten Ziel-Projekt-Aufgaben Kombinationen
+\citep[S. 84]{schatzki_site_2002}.
+
+\subsubsection{Allgemeines
+Verständnis}\label{allgemeines-verstuxe4ndnis}
+
+Im Gegensatz zu der teleoaffektiven Struktur bestimmt das allgemeine
+Verständnis auch Handlungs- und Sprechakte aus anderen Bereichen, aus
+anderen Praktiken. Es organisiert Praktiken durch die breite Auffassung
+der Teilnehmer, in welcher Art und Weise die Praktiken auszuführen sind
+und hat somit nicht nur Auswirkung auf einer Praktik, sondern findet
+auch in anderen Praktiken Ausdruck.
+
+Der Sinn der Theorie der sozialen Praktiken ist weder die totale,
+holistische Beschreibung der Praktiken, noch das individuelle Portrait,
+sondern, dass die soziale Welt aus einzelnen, beobachtbar, erkennbar,
+benennbaren und miteinander verflochtenen Praktiken besteht \citep[S.
+289]{reckwitz_grundelemente_2003}.
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Praktiken sind öffentlich
+\end{itemize}
+
+\subsubsection{\emph{Site of the Social}}\label{site-of-the-social}
+
+\subsection{Objekte in der Soziologie}\label{objekte-in-der-soziologie}
+
+Es finden immer wieder neue Objekte, Sachen, Dinge den Weg in unser
+Leben, privat wie beruflich. Gerade im letzteren Umfeld sind
+informationsverarbeitende Maschinen, Computer, Laptops und deren
+Technologie, sei es nun die greifbare Hardware oder auch die Software
+und deren Code, der für den Benutzer abstrakt bleibt, ihm aber Arbeit
+und Zusammenarbeit erleichtert oder gar erst ermöglicht, Einzug in das
+Leben. Spätestens sei Latours Akteur-Netzwerktheorie haben Objekte wie
+Computer einen festen Bestandteil in die Theorie der Soziologie gefunden
+und zu einem substanziellen methodologischen Perspektivenwechsel führen
+musste. Versteht man doch in der Akteur-Netzwerk-Theorie, Maschinen
+nicht einfach nur als Mittel zu Zweck, sondern gewährt ihm einen ähnlich
+einflussreichen Status, ähnlich dem Mensch und seinem Handeln zu, und
+interpretiert ihn ebenfalls als einen selbstständigen Akteur, der in
+einem relationalen Netzwerk mit anderen Akteuren steht. Die
+Charakterisierung dieser Objekte anhand verschiedenen Auffassung soll im
+folgenden kompakt zusammengefasst werden um den vermeintlichen
+Sonderstatus der Objekte, ihre Aufgaben und Funktionen Im Bezug auf den
+untersuchten Bereich der Open Source Community, also der Arbeit,
+Innovation und Interaktion mit Code und dem Verlagsgeschäft, also dem
+Publizieren von Inhalten herauszustellen. Dem Objekten, vor allen dem
+Code kommt in diesen Sujets eine schöne Aufgabe zu.
+
+In der Soziologie kennt man neben den technischen Geräten, wie sie oben
+beschrieben werden auch noch die klassischen Alltagsobjekte, also
+physisch, haptisch erfahrbare, feste Dinge, wie einen Stuhl. Wobei der
+Begriff, wie Roßler \citeyearpar[S. 77]{kneer_kleine_2008} anmerkt,
+relativ gesehen werden muss, denn ein Laptop oder ein Smartphone dürfte
+wohl in der heutigen Zeit in unseren Kulturen ebenfalls zu der Klasse
+der Alltagsgegenstände zählen; es sind also tendenziell anspruchslose
+und einfache Dinge. Im Gegensatz zu diesem Dingbegriff, haben Objekte
+eine relationale Eigenheit, sie benötigen einen Gegenspieler: das
+Subjekt. Das Objekt stellt sich ihm gegenüber, es wird zu seinem
+Gegenstand \citep[S. 78]{kneer_kleine_2008}. Dabei ist es jedoch nicht
+notwendig, das zwischen Subjekt und Objekt eine Erkenntnisbeziehung
+herrscht, denn wie Dewey \citeyearpar[S. 106 ff.]{dewey_suche_2001}
+beschreibt: „Dinge werden erfahren, bevor sie erkannt werden``.
+
+Latour spricht von den Objekten, die zu hybriden Akteuren, irgendwo
+zwischen Kultur und Natur, zwischen Subjekt und Objekt geworden sind und
+eine kommunikative Ordnung formen \citep[S.
+15]{belliger_anthology:_2006}. Das darf aber auf keinen Fall bedeuten,
+dass Objekte halb Kultur und halb Natur sind. Ganz im Gegenteil: Der
+Begriff \emph{Hybrid} will diese anteilige Zusammensetzung aus
+Eigenschaften völlig vermeiden, Dichotomien durchbrechen und
+Schattierungen von unterschiedlichen Eigenheiten zulassen \citep[S.
+80]{kneer_kleine_2008}. Damit stellt Latour sicher, dass auch
+theoriephilosophisch komplexe Objekte, wie etwa \emph{in vitro}
+Nervenzellen, die also irgendetwas zwischen lebendig und tot, zwischen
+menschlich und technisch sind, als Hybride in einer Soziologietheorie
+behandelt werden können. Dabei dient \emph{Hybrid} als genereller
+Überbegriff, unter den Latour eine ganze Reihe an weiteren
+Objektbegriffen führt. Einer davon ist das von Michel Serres
+\citeyearpar{serres_parasit_1987} geprägte Quasi-Objekt, dem eine
+besonders soziale Rolle zukommt. Quasi-Objekte erzeugen ein Geschehen,
+das die Subjekte mit einbezieht und nicht nur, dass sie sich gegenseitig
+bedingen, sondern Subjekte werden während es sich mit ihm befasst von
+Quasi-Objekten bezeichnet und weisen ihnen Rollen zu. Als Beispiel dient
+bei Serres der Ball im Fussballspiel; Ohne Ball kein Spiel, aber auch
+nur der Ball an sich, bedeutet nicht notwendig ein Spiel: Er muss erst
+ins Spiel gebracht werden. Dieses etablierte Kollektiv besteht jedoch
+nur, solange das Quasi-Objekt im Geschehen. In dieser Zirkulation
+verändert sich nicht nur das Quasi-Objekt, sondern auch das Subjekt wird
+transformiert \citep[S. 379]{latour_actor-network_1996}. Das Verhältnis
+von Quasi-Objekt und Subjekt ist geprägt von Dezentrierung, Weitergabe
+und Teilhabe \citep[S. 350]{serres_parasit_1987}. Die Frage, ob es sich
+aufgrund dessen überhaupt noch um Objekte handeln kann oder ob es
+Relationen sind, bleibt unbeantwortet \citep[S.
+350]{serres_parasit_1987}. Dieser Übergang, der hybride Status, könnte
+aber auch die kennzeichnende Eigenschaft eines Quasi Objekts sein.
+Dieser ambivalente Charakter trägt nach Roßler \citeyearpar[S.
+84]{kneer_kleine_2008} zur Bindung der sozialen Bands, dass durch die
+Quasi Objekte geknüpft und stabilisiert wird, an die Subjekte bei.
+
+Die Grenzobjekte sind ein weiterer Begriff, der hier noch ins Feld
+geführt werden soll. Ursprünglich aus dem wissenschaftstheoretischem
+Bereich entsprungen und ermöglichen dort die Kommunikation zwischen
+verschiedener wissenschaftlicher Subkulturen. Es ist deren
+charakterisierende Eigenschaft, dass sie ebenfalls keine eindeutige
+Ausprägung haben. Im Gegensatz zu den Objektbegriffen zuvor, verändern
+sich Grenzobjekte nicht nur temporär sonder haben zur gleichen Zeit
+verschiedene Ausprägungen -- stellen etwas Verschiedenes dar -- je
+nachdem aus welcher Perspektive, über welche Grenzen hinweg, man es
+betrachtet. Für unterschiedliche Subjekte schimmern in ihm also
+unterschiedliche Bedeutungen. Es sind Objekte, die in unterschiedlichen
+sozialen Welten unterschiedliche Bedeutungen haben aber auch
+gleichzeitig eine Verbindung zwischen diesen Welten herstellen. Sie
+haben einen Grenzstatus zwischen konkret und abstrakt. Sie müssen dabei
+einerseits plastisch genug sein um sich an verschiedene soziale Gruppen
+und Situationen anpassen zu können aber andererseits auch robust um
+durch die verschiedenen Welten hindurch eine Identität aufrecht zu
+erhalten \citep[S. 393]{star_institutional_1989}. Dabei reicht eine
+Verständigung der verschiedenen Welten über das Objekt aufgrund einer
+Schnittmenge der unterschiedlichen Bedeutungen des Objekts aus, es muss
+also nicht im Kern eine identische Bedeutung für die verschiedenen
+Perspektiven aufweisen \citep[S. 91]{kneer_kleine_2008}.
+
+\subsection{Soziale Praktiken als
+Methodik}\label{soziale-praktiken-als-methodik}
+
+Um Praktiken zu erforschen, eignet es sich nicht Interviews mit den
+Handelnden durchzuführen. Das nachträgliche, nochmalige Nachspielen im
+Geiste der Ausführenden verwischt die Unmittelbarkeit von Praktiken und
+machen Interviewte nicht nur zum Gegenstand der Untersuchung, sondern
+gleichermaßen auch zum Interpreten und Theoretiker seiner Praktik. Die
+reale Wirklichkeit kann nicht vom Handelnden selbst beschrieben werden,
+da er sich retrospektiv einen Standpunkt, eine Meinung über die bloße
+Existenz und der Art und Weiße seiner Handlung sucht und findet. Die
+nachträgliche -- also im Moment der Fragens oder in Momenten zuvor, aber
+nicht in dem Moment der Handlung selbst -- kognitive Sinnbildung steht
+unter der potenziellen Gefahr von äußeren Einflüssen eingefärbt im
+Widerspruch mit der originären Intention zu stehen. Das Wesentliche der
+Praxis kann also nicht mehr vermittelt werden \citep[S.
+165]{bourdieu_sozialer_1993}.
+
+Die Praxeologie -- so der weitgehend anerkannte Neologismus -- sieht
+sich eher in der geistigen Nachbarschaft der Beobachtung. Im Fokus
+stehen die Beobachtung wahrer Praxis und das schließt, neben dem
+Sprachgebrauch auch explizit das Körperliche mit ein und das Beschreiben
+dieser -- die Praxeographie\footnote{In Anlehnung an den Begriff der
+  Ethnographie, die Ethnien beschreibt, scheint es angemessen für das
+  Feld der Beschreibung von Praktiken den Begriff der Praxeographie zu
+  schöpfen. Siehe dazu auch \citep[S. 49]{schmidt_soziologie_2012}}.
+Obwohl angelehnt an empirische Methoden und sich als qualitative
+Herangehensweise sehend, entwickelt die Theorie sozialer Praktiken
+ausdrücklich kein empirisch korrektes Ergebnis sondern ein
+methodologisch- analytisches Verständnis und interessiert sich vielmehr
+für die Entstehung und Zustandekommen sozialer Phänomene \citep[S.
+32]{schmidt_soziologie_2012}. Dabei ist der Blick nicht wie bei einer
+Beobachtung eingeschränkt und isoliert das Beobachtete, sondern wirkt
+umfassend und bezieht Bedeutungszusammenhänge mit ein. Das geschieht
+durch das bloße Sehen und Erkennen von Praktiken. Sie sind soziale
+Fähigkeiten, die das Verständnis für die Praktik und ihren Kontext
+beherbergen. Eine Praxisanalyse ist also kein einfach perzeptiver
+Vorgang, denn ihr Untersuchungsgegenstand ist „immer schon praktisch
+erzeugte soziale Sichtbarkeit. Was gesehen werden kann, ist immer schon
+in übergeordnete Sinn- und Bedeutungszusammenhänge eingebettet ``
+\citep[S. 33]{schmidt_soziologie_2012}.
+
+\section{Praxeologische Studien}\label{praxeologische-studien}
+
+\subsection{Praktiken in Brand
+Communities}\label{praktiken-in-brand-communities}
+
+\input{tabellen/community-praktiken} \label{tab-community-praktiken}
+
+Schau, Muñiz und Arnould \citeyearpar{schau_how_2009} untersuchten,
+nachdem sie Pionierarbeit bei der Entdeckung und Etablierung des
+Phänomens der Brandcommunities geleistet haben, auch welche konkreten
+Praktiken in diesen Brandcommunities vorherrschen. Dazu untersuchten sie
+neun, in ihrer thematischen, ökonomischen und sozialen Ausrichtung --
+siehe dazu Kapitel \ref{brand-communities} -- heterogene Brand
+Communities. Das methodische Vorgehen, also die Beobachtungsdauer und
+die Instrumente, die dabei zum Einsatz kamen -- darunter teilnehmende
+beziehungsweise nichtteilnehmende Beobachtungen und detaillierte
+Interviews, unterschieden sich ebenfalls von Community zu Community.
+Ausdrückliches Ziel war es dabei, entgegen der zuvor erschienenen
+Studien zu Praktiken in Brand Communities und Konsum, eine
+generalisierte Theorie und abstrahierte aber differenzierte Praktiken
+herauszulösen, deren Auftreten über die beobachteten Brand Communities
+hinweg konsistent ist \citep[S. 31]{schau_how_2009}. Ein weiteres
+Anliegen der Autoren ist es aufzuzeigen, dass diese interagierenden,
+sich bündelnden Praktiken auch Wert erzeugen, der jedoch -- wie auch
+schon im Kapitel \ref{brand-communities} beschrieben -- im Verständnis
+der Autoren ein Mehrwert für die Produkte oder Dienstleistungen, die
+Gegenstand der Brand Community sind, ist und keine eigenständige
+Leistung. Wie aus Tabelle \ref{tab-community-praktiken} zu entnehmen
+ist, konnten vier verschiedene Funktionskategorien und 12 Praktiken
+identifiziert werden. Die im hohen Maße affektiven Praktiken
+\emph{Welcoming}, \emph{Emphasizing} und \emph{Governing} schaffen,
+intensivieren und erhalten soziale und moralische Verbindungen zwischen
+den Mitgliedern der Community und werden gleichmäßig über die
+Mitglieder, so unterschiedlich sie und ihre Anliegen an die Community
+auch sein mögen, hinweg durchgeführt. Das geschieht auch über die
+Grenzen der Marke oder das Produkts hinaus, so dass auch Mitglieder
+einer Brand Community auch wenn sie die Marke oder das Produkt nicht
+mehr verwenden, trotzdem noch Anteil an der Brand Community nehmen. Ein
+Beispiel dafür sind ehemalige Mini Cooper Fahrer, die auf
+familienfreundlichere Autos umgestiegen sind, sich aber immer noch in
+der Brand Community der Mini Coopers zu Wort melden \citep[S.
+34]{schau_how_2009}. Die Praktiken \emph{Evangelizing} und
+\emph{Justifying} des \emph{Brand Impression Managements} sind nach
+außen gerichtet und wirken dort dahingehend, dass die Marke oder das
+Produkt außerhalb der Community positiv aufgenommen wird. Die Praktiken
+lassen Mitgliedern zu Repräsentaten, zu Abgesandten der Marke oder des
+Produkts werden. Die dritte Kategorie \emph{Community Engagement}
+enthält die Praktiken, welche die Bindung und die Beschäftigung
+innerhalb der Community erhalten und verstärken, wobei die Marke oder
+das Produkt zweitrangig sind. Sie differenzieren die Mitglieder
+untereinander und sorgen somit für die Etablierung eines Wettbewerbs um
+soziales Kapital. \emph{Staking} bedeutet dabei, dass Mitglieder sich
+innerhalb der Community eine Nische, ein Betätigungsfeld, ein Fachgebiet
+suchen und abstecken. Unter \emph{Milestoning} verstehen die Autoren
+herausragende Erfahrungen mit dem Gegenstand der Community. Darunter
+kann man die Kauf eines Mini Coopers aber auch den Besuch eines
+Konzertes verstehen. Die Praktik hängt eng mit dem \emph{Badging}
+zusammen, denn hier wird ein visueller Repräsentant des
+\emph{Milestones} erstellt und ist nun für alle Mitglieder der Community
+sichtbar. Das kann in Form eines Eintrags in der Signatur des Nutzers
+oder auch ein explizites Abzeichen sein, die in der Community Software
+zuvor definiert und dort nun fest verankert sind. \emph{Documenting}
+sehen die Autoren als eine Art zusammenfassende und aufschreibende
+Tätigkeit der drei vorigen Praktiken \emph{Staking}, \emph{Milestoning}
+und \emph{Badging}. Nutzer entwickeln hier ihre eigene Geschichte mit
+der Marke und dem Produkt. Unter der Kategorie \emph{Brand Use} sind
+diejenigen Praktiken versammelt, die direkt mit Marke und dessen Produkt
+zu tun haben. \emph{Grooming} bezeichnet pflegende und wertschätzende
+Tätigkeiten rund um die Marke. Werden Produkte erweitert oder
+abgewandelt sind das \emph{Customizing} Praktiken, die auch in der
+Innovationsforschung breit untersucht wurden und dort unter dem Begriff
+der Co-Creation ein wichtigen Bestandteil ausmachen.
+\emph{Commoditisizing} ist die Aufnahme von geschäftlicher oder
+händerlischen Tätigkeiten, die mit dem Gegenstand der Community in
+Zusammenhang hängen \citep[Anhang A]{schau_how_2009}.
+
+Eine weitere Erkenntnis ist, dass die Praktiken zwar vollständig sind
+und daher auch individuell ausgeführt werden aber häufig
+ineinandergreifend durchgeführt werden und in Kombination verstärkt
+wirken. Weiterhin stellen die Autoren fest, dass die Praktiken, obwohl
+sich das Geschehen in der Online Community stattfindet, unter anderem
+körperliche sind. So geschieht das \emph{Milestoning} in einer Online
+Community einer Band durch den Besuch des ersten Konzerts, oder durch
+die Verfolgung des physischen Liefervorgangs eines Mini Coopers
+\citep[S. 34]{schau_how_2009}. Diese Körperlichkeit und die damit
+einhergehende emotionale Einbindung ermöglicht die Etablierung von
+implizitem Wissen welches letztendlich ein kollektives Gut wird, das die
+Community verstärkt. Aber es wird auch diskursives Wissen und daneben
+auch Insiderinformationen produziert, die sich in eigenen
+Ausdrucksweisen äußern können.
+
+Die Praktiken weisen außerdem eine Art Ausbildungsfunktion auf.
+Praktiken sind über lange Zeiträume erfahrbar, da sie von repetetiver
+Natur sind und können von Community Mitgliedern mit unterschiedlichen
+Einstiegsdaten beobachtet und aufgenommen werden. Sie sind also zu jedem
+gegebenen Zeitpunkt erfahrbar. Dabei fällt den Autoren auf, dass zu
+Beginn der \emph{Ausbildung} einfache Praktiken stehen, die neue
+Mitglieder übernehmen. Sie werden aber nicht explizit gelernt oder durch
+Regeln oder Prinzipien vermittelt sondern imitiert. Je komplexer die
+ausgeführten Praktiken werden, desto höher steigt auch der Status der
+Mitglieds innerhalb der Community. Außerdem dadurch auch klar, dass
+Praktiken eine eigene Geschichte, einen Entwicklungsverlauf haben,
+währenddessen sie sich verändern können.
+
+Die in der Forschung zu Praktiken des Konsums schon etablierte These des
+Vorrangs der Praktik vor dem Konsum, konnten die Autoren auch in den
+Brand Communities wieder erkennen. Je komplexer und zahlreicher die
+Praktiken, desto häufiger werden auch die Gelegenheiten zum Konsum bis
+hin zu institutionalisierten Konsuverhaltensweisen und desto
+ausgeprägter auch die Vitalität der Community \citep[S.
+39]{schau_how_2009}
+
+Die Beobachtungen und Erkenntnisse veranlassen die Autoren zu
+postulieren, dass die Praktiken in Brand Communities Wert generieren --
+für die Mitglieder, für Kunden und für Vermarkter. Für Letztere gilt es
+-- den Autoren nach -- den Kunden zu erlauben, sich auszutauschen, ihnen
+geeignete Kommunikationsplattformen zu bieten und auch die Veränderung
+von Produkten zuzulassen, sie nicht auszubeuten, sondern die
+Gemeinschaft wachsen zu lassen um in ihnen einen Markenpartner zu
+etablieren. Ausgehend von den geschilderten Erkenntnissen sollten
+Vermarkter zunächst Praktiken selbst durchführen um sie zu
+\emph{pflanzen} um dann zu versuchen die Interaktion zwischen den
+Praktiken zu forcieren um deren Wirkung zu erweitern. Je komplexer die
+Praktiken, desto stärker die Community, desto mehr Konsum. Dieser Logik
+folgend müssen auch die Möglichkeiten des \emph{Customizing}
+ausgeschöpft, nicht nur auf oberflächliche Veränderungen beschränkt
+werden. Weiteres wertschöpferisches Momentum kann durch geschäftliche
+Aktivität der Mitglieder rund um den Community Gegenstand ermöglich
+werden und sollte daher auch vom Management zugelassen, etabliert oder
+gefördert werden \citep[S. 41]{schau_how_2009}.
+
+\subsection{Praktiken des
+Programmierens}\label{praktiken-des-programmierens}
+
+Robert Schmidt \citeyearpar{schmidt_soziologie_2012} sieht ein Defizit
+an empirischer Forschung was Praktiken der Wissensarbeit angeht. Die
+Diskussion um die Abkehr von industriellen Herstellungs- und
+Arbeitsmethode, ja körperlicher Arbeit hin zu der Wissensgesellschaft,
+der sauberen, disziplinierte Kopfarbeit, wird gerne, breit und auch
+unreflektiert geführt \citep{hofmann_digitale_2001}. Grund dafür sieht
+er darin, dass Wissensarbeit als geistige und nicht körperliche Arbeit
+aufgefasst wird und so wird er bei der Beobachtung der Praktiken des
+Programmierung zunächst einmal vor die Situation gestellt, dass
+programmierende Handlungen zwar öffentlich sind und sich meistens in
+einem Büro entfalten, die eigentliche Leistung aber eigentlich im
+Inneren des Programmierers zu entstehen scheint. Die
+gestisch-körperlichen Handlungen sind also, obschon sie nicht heimlich
+sind, dem Beobachter zunächst nicht zuträglich und werden nur nach und
+nach, durch den Erwerb von Teilnehmerwissen, erkennbar und lesbar. Die
+Handlungen des Programmierens daher aber als rein geistige anzusehen,
+verwehrt jedoch potente Möglichkeiten der Interpretation, die sich durch
+eine Beobachtung der Praktiken ergeben. Gemeinsam mit dem angesammelten
+Wissen um Kontexte durch den Beobachter kann -- so Schmidt -- das
+Programmieren als eine „spezifisch verfasste, sozio-kulturell geformtes,
+verkörpertes Denkhandeln`` verständlich gemacht werden
+\citep[S.170]{schmidt_soziologie_2012}. Er fertigt dazu eine
+Mikro-Untersuchung an, in der er vielschichtige, mentale, körperliche
+und materiell-gegenständliche Praktikenbestandteile verwoben sieht,
+welche die Arbeit am Code als eine individualisierte, in-sich gekehrte,
+denkende charakterisiert, in deren Inneren sich jedoch Code und Technik
+zu einem räumlich-figürlichen Wesen auftun, das drei-dimensional
+betrachtet wird und eine zeitliche Dimension, einen Ablauf aufweist.
+Diese Aufspannung des Codes im Inneren dient unter anderem der
+Orientierung und Fixierung von Ankerpunkten, was die codebezogene
+Verortung von z.B. Problemen und deren Kommunikation mit anderen
+Programmierern, vereinfacht, indem Handlungs- und Sprachakte diese
+Plastizität des Codes wiedergeben. Die einfache Orientierung im Code
+stellt dabei eine sehr wichtige Fertigkeit für die alltägliche
+Programmierpraxis dar und zeugt von Beispiele sind das Anfertigen von
+Zeichnungen und das Ablaufen des Codes anhand der Zeichnung mit dem
+Stift um sich die Arbeitsweise des Codes sich vor Augen zu führen,
+nachzuvollziehen oder zu entwickeln. Oder abgehakte Nachahmung des
+Ablaufschemas eines Algorithmus mit der Handkante, wobei jeder Schritt
+mit einem Schlag auf der Tischplatte betont wird. Sprachliche Beispiele
+sind: „unten etwas gerade ziehen``, oder „oben etwas fixen`` \citep[S.
+123]{schmidt_soziologie_2012}. Außerdem wird klar, dass die Praktiken
+des Programmierens nicht für sich alleine stehen, sondern Träger haben,
+die sie bestimmen und beeinflussen aber auch über die hinaus wirken.
+Schmidt identifiziert drei von ihnen: idiosynkratische Fähigkeiten des
+Programmierers -- als \emph{Habitus} bezeichnet, die Räumlichkeiten und
+der Code an sich. Die Praktiken an sich unterlaufen einem Wandel, einem
+eigenen \emph{Practice Turn}. Waren Programmierarbeiten vornehmlich
+durch Adjektive wie \emph{individuell, geistig, explizit} und
+\emph{privat} gekennzeichnet, führen neue Arbeitsweisen, die auf den
+basalen Verständnis der Projektpolis stehen, wie sie Luc Boltanski und
+Eve Chiapello -- also kollektive Selbstorganisation in temporären Teams
+verbunden mit einem hohen Grad an Kommunikation und Affektivität -- als
+Grundlage für den modernen Kapitalismus ausweisen, dazu dass
+Programmierarbeiten offener, transparenter und im Team stattfinden.
+Entgegen der ingenieurswissenschaftlichen Auffassung der planmäßigen,
+rationalen, konstruktivistischen, kühlen Arbeit, die ordnungsgemäß
+explizit Schritt für Schritt in einer tayloristischen Industrielogik
+geplant, durchgeführt und kontrolliert wird, finden nun Praktiken in den
+Arbeitsalltag der Programmierer, welche sich durch \emph{Kollektivität,
+Körperlichkeit, Implikation} und \emph{Öffentlichkeit} auszeichnen. Doch
+die Träger der Praktiken haben sich nicht in dem Maße verändert und so
+entsteht eine paradoxe, spannungsreiche Situationen.
+
+\paragraph{Code und Habitus}\label{code-und-habitus}
+
+In vielen Projekten wird Code aus vorherigen Projekten oder Fremdcode
+verwendet. Dieser ist dann häufig unter alleinger Autorenschaft
+entstanden, zumindest die einzelnen Teile an sich, das bedingt auch,
+dass unterschiedliche Herangehensweisen im Code verankert sind. Je nach
+dem wie der Code gestaltet ist beeinflusst er auch die
+Programmierarbeiten der nachfolgenden Programmierer. Der Code weißt eine
+Art eigenes Leben - wohl eher Innenleben -- auf. In den
+Computerwissenschaft wird auch oft von \emph{Code Decay} geredet, was
+eine Art Halbwertszeit des Codes beschreibt, in der er funktional ist,
+je nachdem wie viele Veränderungen schon an ihm durchgeführt, wie viele
+Hinzufügungen es bereits gab. Wie beschrieben ist der Code einer der
+Träger der Praktiken. Da nun sich das Paradigma von alleiniger,
+individueller Code Autorenschafft zu einem eher modularen Verständnis
+von Code bewegt, entstehen an dieser Stelle oft Probleme der
+Inkompatibilität und Defunktionalität, die, wie Schmidt beschreibt, auch
+ganze Projekte oder sogar Firmen gefährden können.
+
+\paragraph{Büroräume}\label{buxfcroruxe4ume}
+
+Die nächste paradoxe Situation ist wohl weniger gefährlich, aber dennoch
+und sogar in zweifacher Art bemerkenswert. Büros in ihrer klassischen
+Ausprägung sind Diener und auch Zeugen von denkender, schreibender
+Wissensarbeit. Schreibtischleuchten und Teppichböden zeugen von stiller,
+konzentrierter von Kopfarbeit.
+
+Die Frage eröffnet sich, warum Programmierer überhaupt in Büroumgebungen
+ihre Arbeitsstätte fanden. Waren doch zuächst die Praktiken von
+Individualität, denkend usw. beschrieben und waren die Informations- und
+Kommunikationstechnik schon so weit entwickelt, dass sie auch mühelos
+Zuhause arbeiten hätten können, etablierte sich die Arbeit im Büro,
+obwohl nichts von der Praktiken ein Büro zur Vorraussetzung hat.
+
+Und nun wo die Praktiken körperbetonter, kommunikativer werden,
+erscheint das Büro als passenderer und gleichzeit ungeeigneterer Ort,
+zumindest wenn sie dem klassischen Büro entsprechen. Kollektive
+Tätigkeiten und effiziente Kommunikation im Team erfordern Präsens,
+daher scheint das Büro eine Renaissance feiern zu dürfen, unter der
+Bedingung, dass es diese Praktiken auch ausreichend unterstützt.
+
+\subsection{Anwender in internetbasierten
+Innovationen}\label{anwender-in-internetbasierten-innovationen}
+
+\section{Forschungsfrage}\label{forschungsfrage}
+
+\subsection{Warum O'Reilly}\label{warum-oreilly}
+
+Quasi Medienunternehmen, besondere Brisanz/Relevanz aufgrund der
+Situation in der Verlagsindustrie. Paradigmenwechsel: von industrieller
+zur individueller Produktion.
+
+How and Why!
+
+Kern der Informations und Kulturproduktin sind soziale Prozesse,
+Tauschen, Teilen usw. Also nötig, das mit einem Mechanismus zu
+beobachten, der diese Besonderheit des sozialem mit aufnimmt und nicht
+ausspart. \#\# Forschungsfrage
+
+Wie die vorangegangenen Kapitel gezeigt haben, sind Communities, die
+Wertschöpfung in ihnen und wie sie mit Unternehmen zusammenhängen oder
+kooperieren ausführlich erforscht und beschrieben. Das Phänomen und die
+Art die der O'Reilly Verlag seine -- oder besser gesagt -- die
+Communities einsetzt ist jedoch mit den bestehenden Modellen nicht
+vollständig abzubilden. Es finden sich verstreut über unterschiedliche
+Forschungsfelder hinweg Ansätze -- Open Innovation, Brand Communities,
+Medien Communities, Co-Creation -- die herangezogen werden können um
+Teile des Fragmente zu erklären; sie sind aber nicht ausreichend.
+Besonderes Augenmerk soll bei der Untersuchung der Community -- es ist
+schwierig hier von der, also singular, Community zu sprechen, denn neben
+der Community, die dem O'Reilly Verlag unterstellt ist, indem Sinne,
+dass sie auf ihrem Webspace unter dem Webpräsens von O'Reilly läuft und
+auch vom Verlag moderiert wird, interagiert der Verlag ebenfalls mit
+zahlreichen \emph{User-Groups} und Open Source Projekten und Gemeinenden
+-- darauf gelegt werden, welche Handlungen und Sprachakte sich zwischen
+den beiden Akteuren -- Verlag, vertreten durch Moderatoren oder anderes
+Personal, und Community -- aufgeführt werden. Denn wie die
+Vorbesprechung des Themenkomplex eindrücklich gezeigt hat, sind es
+soziale Prozesse, die Zusammenarbeit in der Informationsproduktion
+koordinieren und motivieren und so zur Entwicklung von Innovationen
+führen. Marketing- und Innovationsmanagement können zwar die Phänomene
+in einen größeren Zusammenhang einordnen, organisationelle
+Vorraussetzungen und Auswirkungen empirisch erörtern, schaffen es jedoch
+nicht -- aufgrund ihres nicht sozialen Blickes -- herauszufinden was in
+den Communities und zwischen den Akteuren geschieht. Communities werden
+unabsichtlich wie magische \emph{Blackboxes} beschrieben, in welcher die
+inneren Vorgänge verborgen bleiben und nur Input und Output sichtbar und
+handhabbar sind. Doch wie kann \emph{Management} von etwas erfolgen,
+deren Abläufe und Eigenarten man nicht kennt, deren Riten und Mythen
+verborgen bleiben. Ohne dieses spezifische Wissen kann kein Verständnis
+davon entwickelt werden, wie diese Phänomene absichtlich und kalkuliert
+etabliert und gefördert werden können. Die Frage, die das vorangehende
+und nach nachstehende Kapitel beschäftigt und vorantreibt ist also die,
+welche Praktiken sich im Zusammenspiel zwischen O'Reilly Verlag und den
+Mitgliedern der Communities sich im Laufe der Zeit entfaltet haben und
+ausgeführt werden.
+
+Methodisch erfolgt das durch eine naturalistische Beobachtung der Online
+Communities, die im Zusammenhang mit dem O'Reilly Verlag stehen und der
+teilnehmenden Beobachtung -- oder beobachtende Teilnahme -- der Rome
+Maker Faire vom 27. September bis 5. Oktober 2014. Dort tritt der
+O'Reilly Verlag zwar nicht in direkter und offizieller Gestalt auf,
+jedoch wird die Veranstaltung vom \emph{Make Magazine} unterstützt,
+welches unter der Obhut des O'Reilly Verlages 2005 gegründet wurde und
+seit Januar 2013 in einer separaten Firma \emph{Maker Media} existiert
+\citep{oreilly_why_2013}. Der Autor nimmt an, das während der
+Gründungszeit und den nachfolgenden, vermutlich prägenden, acht Jahre
+unter dem Dach des O'Reilly Verlages dem Magazine die Community DNA
+injiziert worden ist, so dass auch das Magazine \emph{Make} und die
+Firma \emph{Maker Media} eine ähnliche Auffassung von der Arbeit,
+Zusammenarbeit und Bedeutung der Community hat.
+
+\chapter{Der Fall O'Reilly --}\label{der-fall-oreilly}
+
+Wie bereits erläutert, ist der O'Reilly Verlag mit der
+Informationstechnologie Branche und insbesondere der Open Source
+Anhängerschaft im Besonderen verbunden. Ohne eine Betrachtung der
+Gründungsgeschichte und der Charakters Tim O'Reilly ist die Sonderrolle
+-- aus Sicht der konventionellen Verlagsbranche -- des O'Reilly Verlages
+zwar nachvollziehbar aber nicht zu verstehen. Daher beginnt die Studie
+mit einem kompakten Umriss der Entstehungsgeschichte, geht über in die
+Vorstellung der Geschäftsfelder und -strategien, sowie der Communities
+und endet in der Untersuchung der Praktiken zwischen Verlag und
+Community.
+
+\section{Kurze Historie und daraus sich ableitendes
+Verständnis}\label{kurze-historie-und-daraus-sich-ableitendes-verstuxe4ndnis}
+
+\section{Geschäftsfelder}\label{geschuxe4ftsfelder}
+
+\subsection{Publikationen}\label{publikationen}
+
+\subsection{Konferenzen}\label{konferenzen}
+
+\subsection{Epilog -- Verlängerung des Kundeninnovationsprozess --
+\emph{Maker
+Movement}}\label{epilog-verluxe4ngerung-des-kundeninnovationsprozess-maker-movement}
+
+Maker Movement ---\textgreater{} Der Innovationsprozess der Kunden hört
+nicht bei der Ideengenerierung auf, sondern erstreckt sich weiter, durch
+den jetzt möglichen Zugriff auf Produktionstechniken die lange nur
+Unternehmen zur Verfügung standen.
+
+\section{Communities}\label{communities}
+
+\subsection{User Groups}\label{user-groups}
+
+\subsection{Open Source}\label{open-source}
+
+\subsection{O'Reilly}\label{oreilly}
+
+\section{Praktiken zwischen Verlag und
+Community}\label{praktiken-zwischen-verlag-und-community}
+
+\chapter{Implikationen für das Management in Verlags- ,Kultur-,
+Informationsgüter
+Branche}\label{implikationen-fuxfcr-das-management-in-verlags--kultur--informationsguxfcter-branche}
+
+\chapter{Fazit}\label{fazit}
+
+\section{Limitationen}\label{limitationen}
+
+\section{Ausblick}\label{ausblick}
